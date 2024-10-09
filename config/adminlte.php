@@ -319,7 +319,7 @@ return [
             'text' => 'Dashboard',
             'url' => '/home',
             'icon' => 'fas fa-fw fa-home',
-            'label' => 4,
+            'can'  => 'view-dashboard',
             'label_color' => 'success',
         ],
         // ['header' => 'account_settings'],
@@ -336,6 +336,7 @@ return [
         [
             'text' => 'Master Data',
             'icon' => 'fas fa-fw fa-file',
+            'can'  => 'manage-master-data',
             'submenu' => [
                 [
                     'text' => 'Mata Kuliah',
@@ -405,6 +406,7 @@ return [
         [
             'text' => 'User Account',
             'icon' => 'fas fa-fw fa-file',
+            'can'  => 'manage-master-data',
             'submenu' => [
                 [
                     'text' => 'User Mahasiswa',
@@ -432,6 +434,7 @@ return [
         [
             'text' => 'information',
             'icon_color' => 'cyan',
+            'label' => 4,
             'url' => '#',
         ],
     ],
