@@ -322,17 +322,17 @@ return [
             'label' => 4,
             'label_color' => 'success',
         ],
-        ['header' => 'account_settings'],
-        [
-            'text' => 'profile',
-            'url' => 'admin/settings',
-            'icon' => 'fas fa-fw fa-user',
-        ],
-        [
-            'text' => 'change_password',
-            'url' => 'admin/settings',
-            'icon' => 'fas fa-fw fa-lock',
-        ],
+        // ['header' => 'account_settings'],
+        // [
+        //     'text' => 'profile',
+        //     'url' => 'admin/settings',
+        //     'icon' => 'fas fa-fw fa-user',
+        // ],
+        // [
+        //     'text' => 'change_password',
+        //     'url' => 'admin/settings',
+        //     'icon' => 'fas fa-fw fa-lock',
+        // ],
         [
             'text' => 'Master Data',
             'icon' => 'fas fa-fw fa-file',
@@ -400,6 +400,22 @@ return [
                 //     'text' => 'level_one',
                 //     'url' => '#',
                 // ],
+            ],
+        ],
+        [
+            'text' => 'User Account',
+            'icon' => 'fas fa-fw fa-file',
+            'submenu' => [
+                [
+                    'text' => 'User Mahasiswa',
+                    'icon' => 'fas fa-fw fa-book',
+                    'url' => '/user-mahasiswa',
+                ],
+                [
+                    'text' => 'User Dosen',
+                    'icon' => 'fas fa-fw fa-user',
+                    'url' => '/user-dosen',
+                ],
             ],
         ],
         ['header' => 'labels'],

@@ -1,5 +1,6 @@
 
  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+ @include('sweetalert::alert', ['cdn' => "https://cdn.jsdelivr.net/npm/sweetalert2@9"])
  <script>
      // Konfirmasi penghapusan menggunakan SweetAlert
      function confirmDelete(event) {
