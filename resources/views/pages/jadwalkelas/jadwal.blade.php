@@ -1,7 +1,18 @@
-@extends('layouts.main')
-
+@extends('adminlte::page')
+@section('title', 'Kelas')
+@section('content_header')
+<div class="pagetitle">
+    <h1>Data Tables</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">Master Data</li>
+            <li class="breadcrumb-item active">Kelas</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+@stop
 @section('content')
-
+@include('layouts.scripts')
 <div class="layout-px-spacing">
     <div class="row">
         <div class="col-lg-12">

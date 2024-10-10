@@ -26,6 +26,8 @@ use App\Http\Controllers\Master\UserMahasiswaController;
 use App\Http\Controllers\Public\KrsController;
 use App\Http\Controllers\Public\ProfilemhsController;
 use App\Http\Controllers\FormController;
+use App\Http\Controllers\FRIA05AController;
+use App\Http\Controllers\FRIA06BController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 
@@ -43,6 +45,8 @@ Route::resource('waktu', WaktuController::class)->middleware(['auth', 'is_admin'
 Route::resource('dosen', DosenController::class)->middleware(['auth', 'is_admin']);
 Route::resource('mahasiswa', MahasiswaController::class)->middleware(['auth', 'is_admin']);
 Route::resource('daftar-kelas', DaftarkelasController::class)->middleware(['auth', 'is_admin']);
+Route::resource('fria06b', FRIA06BController::class)->middleware(['auth', 'is_admin']);
+Route::resource('fria05a', FRIA05AController::class)->middleware(['auth', 'is_admin']);
 Route::get('/optimize-schedule/{id}', [DaftarkelasController::class, 'optimizeSchedule'])->name('optimize-schedule');
 Route::post('/save-changes', [DaftarKelasController::class, 'saveChanges'])->name('save-changes');
 // routes/web.php
@@ -57,7 +61,6 @@ Route::resource('jadwal-kelas', JadwalkelasController::class)->middleware(['auth
 Route::resource('user-mahasiswa', UserMahasiswaController::class)->middleware(['auth', 'is_admin']);
 Route::resource('user-dosen', UserDosenController::class)->middleware(['auth', 'is_admin']);
 Route::resource('user-admin', AdminController::class)->middleware(['auth', 'is_admin']);
-Route::resource('acckrs', AccKrsController ::class)->middleware(['auth', 'is_admin']);
 // Route::resource('accsidang', AccSidangController ::class)->middleware(['auth', 'is_admin']);
 Route::resource('jadwalujian', JadwalujianController::class)->middleware(['auth', 'is_admin']);
 Route::resource('nilaiujian', NilaiUjianController ::class)->middleware(['auth', 'is_admin']);
@@ -66,7 +69,6 @@ Route::post('/importmahasiswa', [MahasiswaController::class, 'importdatamahasisw
 Route::post('/importdatamatkul', [MatakuliahController::class, 'importdatamatkul'])->name('importdatamatkul')->middleware(['auth', 'is_admin']);
 Route::post('/importkelas', [RuangkelasController::class, 'importkelas'])->name('importkelas')->middleware(['auth', 'is_admin']);
 Route::get('/getkelas', [DaftarkelasController::class, 'getkelas'])->name('getkelas')->middleware(['auth', 'is_admin']);
-Route::post('/status', [AccKrsController::class, 'status'])->name('status')->middleware(['auth', 'is_mahasiswa']);
 
 Route::resource('krs', KrsController::class)->middleware(['auth', 'is_mahasiswa']);
 Route::resource('profile', ProfilemhsController::class)->middleware(['auth', 'is_mahasiswa']);

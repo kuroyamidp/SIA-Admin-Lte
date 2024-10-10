@@ -63,7 +63,7 @@ return [
     |
     */
 
-    'logo' => '<b>SIA</b>',
+    'logo' => '<b>UJI KOMPETENSI</b>',
     'logo_img' => 'vendor/adminlte/dist/img/AdminLTELogo.png',
     'logo_img_class' => 'brand-image img-circle elevation-3',
     'logo_img_xl' => null,
@@ -133,8 +133,8 @@ return [
     |
     */
 
-    'usermenu_enabled' => true,
-    'usermenu_header' => false,
+    'usermenu_enabled' => false,
+    'usermenu_header' => true,
     'usermenu_header_class' => 'bg-secondary',
     'usermenu_image' => false,
     'usermenu_desc' => false,
@@ -335,88 +335,108 @@ return [
         // ],
         [
             'text' => 'Master Data',
-            'icon' => 'fas fa-fw fa-file',
+            'icon' => 'fas fa-fw fa-bars',
             'can'  => 'manage-master-data',
             'submenu' => [
                 [
                     'text' => 'Mata Kuliah',
                     'icon' => 'fas fa-fw fa-book',
                     'url' => '/matakuliah',
+                    'classes' => 'submenu-item', // tambahkan kelas custom
                 ],
                 [
                     'text' => 'Progdi',
                     'icon' => 'fas fa-fw fa-user',
                     'url' => '/progdi',
+                    'classes' => 'submenu-item', // tambahkan kelas custom
                 ],
                 [
                     'text' => 'Ruang Kelas',
                     'icon' => 'fas fa-fw fa-bookmark',
                     'url' => '/ruangkelas',
+                    'classes' => 'submenu-item', // tambahkan kelas custom
                 ],
                 [
                     'text' => 'Kelas',
                     'icon' => 'fas fa-fw fa-book-open',
                     'url' => '/kelas',
+                    'classes' => 'submenu-item', // tambahkan kelas custom
                 ],
                 [
                     'text' => 'Waktu',
                     'icon' => 'fas fa-fw fa-clock',
                     'url' => '/waktu',
+                    'classes' => 'submenu-item', // tambahkan kelas custom
                 ],
                 [
                     'text' => 'Mahasiswa',
                     'icon' => 'fas fa-fw fa-user',
                     'url' => '/mahasiswa',
+                    'classes' => 'submenu-item', // tambahkan kelas custom
                 ],
                 [
                     'text' => 'Dosen',
                     'icon' => 'fas fa-fw fa-user-tie',
                     'url' => '/dosen',
+                    'classes' => 'submenu-item', // tambahkan kelas custom
                 ],
-                // [
-                //     'text' => 'level_one',
-                //     'url' => '#',
-                //     'submenu' => [
-                //         [
-                //             'text' => 'level_two',
-                //             'url' => '#',
-                //         ],
-                //         [
-                //             'text' => 'level_two',
-                //             'url' => '#',
-                //             'submenu' => [
-                //                 [
-                //                     'text' => 'level_three',
-                //                     'url' => '#',
-                //                 ],
-                //                 [
-                //                     'text' => 'level_three',
-                //                     'url' => '#',
-                //                 ],
-                //             ],
-                //         ],
-                //     ],
-                // ],
-                // [
-                //     'text' => 'level_one',
-                //     'url' => '#',
-                // ],
             ],
         ],
         [
+            'text' => 'Jadwal Kuliah',
+            'url' => '/daftar-kelas',
+            'icon' => 'fas fa-fw fa-book-open',
+            'can'  => 'view-dashboard',
+            'label_color' => 'success',
+        ],
+        [
+            'text' => 'Absensi Siswa',
+            'url' => '/absensi',
+            'icon' => 'fas fa-fw fa-user-plus',
+            'can'  => 'view-dashboard',
+            'label_color' => 'success',
+        ],
+        [
             'text' => 'User Account',
-            'icon' => 'fas fa-fw fa-file',
+            'icon' => 'fas fa-fw fa-wrench',
             'can'  => 'manage-master-data',
             'submenu' => [
                 [
                     'text' => 'User Mahasiswa',
-                    'icon' => 'fas fa-fw fa-book',
+                    'icon' => 'fas fa-fw fa-users',
                     'url' => '/user-mahasiswa',
+                    'classes' => 'submenu-item',
                 ],
                 [
                     'text' => 'User Dosen',
                     'icon' => 'fas fa-fw fa-user',
                     'url' => '/user-dosen',
+                    'classes' => 'submenu-item',
+                ],
+            ],
+        ],
+        [
+            'text' => 'Tabel',
+            'icon' => 'fas fa-fw fa-wrench',
+            'can'  => 'manage-master-data',
+            'submenu' => [
+                [
+                    'text' => 'FR.IA.06.B LEMBAR KUNCI JAWABAN PERTANYAAN TERTULIS ESAI',
+                    'icon' => 'fas fa-fw fa-book-open',
+                    'url' => '/fria06b',
+                    'classes' => 'submenu-item',
+                ],
+                [
+                    'text' => 'FR.IA.05A. DPT - PERTANYAAN TERTULIS PILIHAN GANDA',
+                    'icon' => 'fas fa-fw fa-book-open',
+                    'url' => '/fria05a',
+                    'classes' => 'submenu-item',
+                ],
+                [
+                    'text' => 'FR.IA.05.C. LEMBAR JAWABAN PILIHAN GANDA',
+                    'icon' => 'fas fa-fw fa-book-open',
+                    'url' => '/fria05c',
+                    'classes' => 'submenu-item',
                 ],
             ],
         ],

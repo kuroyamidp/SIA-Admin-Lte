@@ -1,6 +1,19 @@
-@extends('layouts.main')
-
+@extends('adminlte::page')
+@section('title', 'Dosen')
+@section('content_header')
+<div class="pagetitle">
+    <h1>Data Tables</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">Master Data</li>
+            <li class="breadcrumb-item active">Dosen</li>
+            <li class="breadcrumb-item active">Tambah Absen Siswa</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+@stop
 @section('content')
+@include('layouts.scripts')
 <div class="layout-px-spacing">
     <div class="row layout-top-spacing">
         <div class="col-lg-12">

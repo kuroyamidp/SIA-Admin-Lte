@@ -30,8 +30,8 @@ class AuthServiceProvider extends ServiceProvider
         });        
         // Gate untuk mengelola master data (misalnya, hanya superadmin dengan role_id 1)
         Gate::define('manage-master-data', function ($user) {
-            // return $user->role_id == 0; 
-            return in_array($user->role_id, [0, 1, 2]);// Hanya pengguna dengan role_id 1 (superadmin) yang bisa mengelola master data.
+            return $user->role_id == 0; 
+            // return in_array($user->role_id, [0, 1, 2]);// Hanya pengguna dengan role_id 1 (superadmin) yang bisa mengelola master data.
         });
     
         // Definisikan gate lain sesuai kebutuhan...

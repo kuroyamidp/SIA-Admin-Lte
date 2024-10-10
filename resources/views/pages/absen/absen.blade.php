@@ -1,10 +1,21 @@
-@extends('layouts.main')
+@extends('adminlte::page')
+
+@section('title', 'Dashboard')
+
+@section('content_header')
+<div class="pagetitle">
+    <h1>Data Tables</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="index.html">Master Data</a></li>
+            <li class="breadcrumb-item active">Mahasiswa</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+@stop
 
 @section('content')
-
-<head>
-    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-</head>
+@include('layouts.scripts')
 <div class="layout-px-spacing">
     <div class="row">
         <div class="col-lg-12">
