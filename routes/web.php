@@ -26,7 +26,9 @@ use App\Http\Controllers\Master\UserMahasiswaController;
 use App\Http\Controllers\Public\KrsController;
 use App\Http\Controllers\Public\ProfilemhsController;
 use App\Http\Controllers\FormController;
+use App\Http\Controllers\FRAPL02Controller;
 use App\Http\Controllers\FRIA05AController;
+use App\Http\Controllers\FRIA05CController;
 use App\Http\Controllers\FRIA06BController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
@@ -45,8 +47,10 @@ Route::resource('waktu', WaktuController::class)->middleware(['auth', 'is_admin'
 Route::resource('dosen', DosenController::class)->middleware(['auth', 'is_admin']);
 Route::resource('mahasiswa', MahasiswaController::class)->middleware(['auth', 'is_admin']);
 Route::resource('daftar-kelas', DaftarkelasController::class)->middleware(['auth', 'is_admin']);
+Route::resource('frapl02', FRAPL02Controller::class)->middleware(['auth', 'is_admin']);
 Route::resource('fria06b', FRIA06BController::class)->middleware(['auth', 'is_admin']);
 Route::resource('fria05a', FRIA05AController::class)->middleware(['auth', 'is_admin']);
+Route::resource('fria05c', FRIA05CController::class)->middleware(['auth', 'is_admin']);
 Route::get('/optimize-schedule/{id}', [DaftarkelasController::class, 'optimizeSchedule'])->name('optimize-schedule');
 Route::post('/save-changes', [DaftarKelasController::class, 'saveChanges'])->name('save-changes');
 // routes/web.php

@@ -3,6 +3,19 @@
         padding-left: 30px !important;
         /* Gunakan !important untuk memastikan padding diterapkan */
     }
+    /* .sidebar-gray {
+        background-color: #808080 !important;
+        color: white !important; 
+    }
+
+    .sidebar-gray .nav-link:hover {
+        background-color: #6c757d !important; 
+    }
+
+
+    .sidebar-gray .brand-link {
+        background-color: #6c757d !important;
+    } */
 </style>
 
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
