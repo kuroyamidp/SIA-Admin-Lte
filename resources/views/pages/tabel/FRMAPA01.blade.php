@@ -61,21 +61,22 @@
                     <div class="card-body">
                         <!-- Section for Skema Sertifikasi -->
                         <!-- table-striped -->
-                        <table border="1" width="100%" cellpadding="10" class="table-border ">
-                            <tr>
-                                <td>Skema Sertifikasi <br>(KKNI/Okuapasi/Klaster)</td>
-                                <td>Judul:</td>
-                                <td colspan="2">
-                                    <input type="text" name="judul" class="form-control no-border" value="Pelaksana Budidaya Anggrek" required>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td>Nomor:</td>
-                                <td colspan="2">
-                                    <input type="text" name="nomor" class="form-control no-border" value="SKM-2102-01/LSP P1 UPGRIS/2017" required>
-                                </td>
-                            </tr>
+                        <table border="1" width="100%" cellpadding="10">
+                            <thead>
+                                <tr>
+                                    <td rowspan="2">Skema Sertifikasi <br>(KKNI/Okuapasi/Klaster)
+                                    <td>Judul:</td>
+                                    </td>
+                                    <td>
+                                        <input type="text" name="judul" class="form-control" placeholder="Masukkan Judul" required>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Nomor:</td>
+                                    <td>
+                                        <input type="text" name="nomor" class="form-control" placeholder="Masukkan Nomor" required>
+                                    </td>
+                                </tr>
                         </table>
                     </div>
                     @stop

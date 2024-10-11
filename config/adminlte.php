@@ -196,7 +196,7 @@ return [
     'classes_content_wrapper' => '',
     'classes_content_header' => '',
     'classes_content' => '',
-    'classes_sidebar' => 'sidebar-gray elevation-4',
+ 'classes_sidebar' => 'sidebar-gray elevation-4',
     'classes_sidebar_nav' => '',
     'classes_topnav' => 'navbar-white navbar-light',
     'classes_topnav_nav' => 'navbar-expand',
@@ -322,17 +322,6 @@ return [
             'can'  => 'view-dashboard',
             'label_color' => 'success',
         ],
-        // ['header' => 'account_settings'],
-        // [
-        //     'text' => 'profile',
-        //     'url' => 'admin/settings',
-        //     'icon' => 'fas fa-fw fa-user',
-        // ],
-        // [
-        //     'text' => 'change_password',
-        //     'url' => 'admin/settings',
-        //     'icon' => 'fas fa-fw fa-lock',
-        // ],
         [
             'text' => 'Master Data',
             'icon' => 'fas fa-fw fa-bars',
@@ -342,7 +331,7 @@ return [
                     'text' => 'Mata Kuliah',
                     'icon' => 'fas fa-fw fa-book',
                     'url' => '/matakuliah',
-                    'classes' => 'submenu-item', // tambahkan kelas custom
+                    'classes' => 'submenu-item',
                 ],
                 [
                     'text' => 'Progdi',
@@ -420,6 +409,12 @@ return [
             'icon' => 'fas fa-fw fa-wrench',
             'can'  => 'manage-master-data',
             'submenu' => [
+                [
+                    'text' => 'FR.MAPA.01- MERENCANAKAN AKTIVITAS DAN PROSES ASESMEN',
+                    'icon' => 'fas fa-fw fa-book-open',
+                    'url' => '/frmapa01',
+                    'classes' => 'submenu-item',
+                ],
                 [
                     'text' => 'FR.APL.02. ASESMEN MANDIRI',
                     'icon' => 'fas fa-fw fa-book-open',
