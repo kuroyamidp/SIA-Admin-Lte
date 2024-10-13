@@ -16,6 +16,12 @@
     .sidebar-gray .brand-link {
         background-color: #6c757d !important;
     } */
+    .canvas-container {
+            border: 1px solid #000;
+            width: 100%;
+            height: 100px;
+            margin-top: 5px;
+        }
 </style>
 
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
@@ -67,4 +73,40 @@
             }
         });
     }
+    function initCanvas(canvasId) {
+            const canvas = document.getElementById(canvasId);
+            const ctx = canvas.getContext('2d');
+            let drawing = false;
+
+            canvas.addEventListener('mousedown', (e) => {
+                drawing = true;
+                ctx.beginPath();
+                ctx.moveTo(e.offsetX, e.offsetY);
+            });
+
+            canvas.addEventListener('mousemove', (e) => {
+                if (drawing) {
+                    ctx.lineTo(e.offsetX, e.offsetY);
+                    ctx.stroke();
+                }
+            });
+
+            canvas.addEventListener('mouseup', () => {
+                drawing = false;
+            });
+
+            canvas.addEventListener('mouseleave', () => {
+                drawing = false;
+            });
+        }
+
+        function clearCanvas(canvasId) {
+            const canvas = document.getElementById(canvasId);
+            const ctx = canvas.getContext('2d');
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+        }
+
+        // Inisialisasi canvas untuk asesmen dan asesor
+        initCanvas('canvasAsesi');
+        initCanvas('canvasAsesor');
 </script>
