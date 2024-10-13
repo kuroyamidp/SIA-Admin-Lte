@@ -327,14 +327,14 @@
                             <tbody>
                                 <tr>
                                     <td class="align-middle">
-                                    1. Elemen: Menyiapkan        peralatan manual <br>
+                                        1. Elemen: Menyiapkan peralatan manual <br>
                                         <b>Kriteria Unjuk Kerja:</b><br>
                                         <div class="kriteria-margin">
                                             <span>
-                                            1.1 Peralatan  manual  didata  kelengkapan  dan kesesuaian fungsinya
+                                                1.1 Peralatan manual didata kelengkapan dan kesesuaian fungsinya
                                             </span><br>
                                             <span>
-                                            1.2 Jenis  peralatan  dipilih  sesuai  tujuan  dan fungsi alat 
+                                                1.2 Jenis peralatan dipilih sesuai tujuan dan fungsi alat
                                             </span>
                                         </div>
                                     </td>
@@ -346,11 +346,11 @@
                                 </tr>
                                 <tr>
                                     <td class="align-middle">
-                                    2. Elemen: Menggunakan    peralatan manual     <br>
+                                        2. Elemen: Menggunakan peralatan manual <br>
                                         <b>Kriteria Unjuk Kerja:</b><br>
                                         <div class="kriteria-margin">
                                             <span>2.1 Peralatan manual digunakan sesuai dengan fungsi dan ketentuan penggunaannya</span> <br>
-                                            <span>2.2	Peralatan     manual     digunakan     dengan menerapkan kaidah keselamatan, keamanan dan kesehatan kerja </span> <br>
+                                            <span>2.2 Peralatan manual digunakan dengan menerapkan kaidah keselamatan, keamanan dan kesehatan kerja </span> <br>
                                         </div>
                                     </td>
 
@@ -362,11 +362,11 @@
                                 </tr>
                                 <tr>
                                     <td class="align-middle">
-                                    3. Elemen: Merawat peralatan manual<br>
+                                        3. Elemen: Merawat peralatan manual<br>
                                         <b>Kriteria Unjuk Kerja:</b><br>
                                         <div class="kriteria-margin">
-                                            <span>3.1. Peralatan   manual   yang   telah   digunakan dibersihkan	dan    disimpan    kembali    di tempatnya sesuai dengan SOP</span><br>
-                                        <span> 3.2 Peralatan   manual   yang   rusak   diperbaiki sesuai petunjuk penanggungjawab peralatan perusahaan</span>
+                                            <span>3.1. Peralatan manual yang telah digunakan dibersihkan dan disimpan kembali di tempatnya sesuai dengan SOP</span><br>
+                                            <span> 3.2 Peralatan manual yang rusak diperbaiki sesuai petunjuk penanggungjawab peralatan perusahaan</span>
                                         </div>
                                     </td>
 
@@ -378,16 +378,213 @@
                                 </tr>
                                 <tr>
                                     <td class="align-middle">
-                                        4. Elemen: Memelihara K3 lingkungan kerja secara berkelanjutan<br>
+                                        4. Elemen: Melaporkan hasil penggunaan dan <br>
                                         <b>Kriteria Unjuk Kerja:</b><br>
                                         <div class="kriteria-margin">
-                                            <span>4.1. Pemeliharaan K3 di lingkungan kerja diiikuti sesuai SOP</span>
+                                            <span>4.1 Jenis, jumlah dan kondisi peralatan serta tempat penyimpanan dicatat</span><br>
+                                            <span>4.2 Hasil pengoperasian alat dan perawatan peralatan manual dilaporkan ke atasan langsung</span>
                                         </div>
                                     </td>
 
                                     <td class="align-middle"><input type="checkbox" name="k4"></td>
                                     <td class="align-middle"><input type="checkbox" name="bk4"></td>
                                     <td class="align-middle">
+                                        <textarea name="bukti4" class="no-border" style="width: 100%; height: 100px; "></textarea>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi 4
+                                    <td>Kode Unit :</td>
+                                    </th>
+                                    <td>
+                                        TAN.HO02.001.01
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>
+
+                                        Mempersiapkan Media Tanam Terpilih Pada Budidaya
+                                        Tanaman Anggrek
+
+                                    </td>
+                                </tr>
+                        </table>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th>Dapatkah Saya</th>
+                                    <th>K</th>
+                                    <th>BK</th>
+                                    <th>Bukti yang Relevan</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="align-middle">
+                                        1. Elemen: Menyiapkan alat dan bahan media tanam<br>
+                                        <b>Kriteria Unjuk Kerja:</b><br>
+                                        <div class="kriteria-margin">
+                                            <span>
+                                                1.1 Peralatan untuk membuat media tanam disiapkan sesuai jenis, jumlah dan fungsinya
+                                            </span><br>
+                                            <span>
+                                                1.2 Bahan/jenis media tanam disiapkan sesuai kebutuhan rencana produksi
+                                            </span>
+                                        </div>
+                                    </td>
+                                    <td class="align-middle"><input type="checkbox" name="k1"></td>
+                                    <td class="align-middle"><input type="checkbox" name="bk1"></td>
+                                    <td class="align-middle">
+                                        <textarea name="bukti4" class="no-border" style="width: 100%; height: 100px; "></textarea>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="align-middle">
+                                        2. Elemen: Menyiapkan media tanam <br>
+                                        <b>Kriteria Unjuk Kerja:</b><br>
+                                        <div class="kriteria-margin">
+                                            <span>2.1 Media dipotong-potong sesuai ukuran
+                                                Standar Operasional Prosedur (SOP)
+                                            </span> <br>
+                                            <span>2.2 Potongan media diayak untuk mendapatkan ukuran yang diinginkan </span> <br>
+                                            <span>2.3 Media tanam dikukus dengan waktu sesuai SOP</span> <br>
+                                            <span>2.4 Media tanam didinginkan sesuai standar</span> <br>
+                                        </div>
+                                    </td>
+
+                                    <td class="align-middle"><input type="checkbox" name="k2"></td>
+                                    <td class="align-middle"><input type="checkbox" name="bk2"></td>
+                                    <td class="align-middle">
+                                        <textarea name="bukti4" class="no-border" style="width: 100%; height: 100px;"></textarea>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="align-middle">
+                                        3. Elemen: Menempatkan media di tempat penampungan media<br>
+                                        <b>Kriteria Unjuk Kerja:</b><br>
+                                        <div class="kriteria-margin">
+                                            <span>3.1 Media tanam ditampung dalam wadah dan diangkut ke tempat penampungan</span><br>
+                                            <span>3.2 Media tanam dalam wadah disimpan secara rapi di tempat penampungan</span><br>
+                                            <span>3.3 Catatan hasil penyiapan media tanam dibuat dengan menggunakan format sesuai dengan SOP</span>
+                                        </div>
+                                    </td>
+
+                                    <td class="align-middle"><input type="checkbox" name="k3"></td>
+                                    <td class="align-middle"><input type="checkbox" name="bk3"></td>
+                                    <td class="align-middle center">
+                                        <textarea name="bukti4" class="no-border" style="width: 100%; height: 100px; "></textarea>
+                                    </td>
+                                </tr>
+
+                            </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi 5
+                                    <td>Kode Unit :</td>
+                                    </th>
+                                    <td>
+                                        TAN.HO02.002.01
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>
+                                        Memberikan Perlakuan untuk Media Khusus pada
+                                        Budidaya tanaman anggrek
+
+                                    </td>
+                                </tr>
+                        </table>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th>Dapatkah Saya</th>
+                                    <th>K</th>
+                                    <th>BK</th>
+                                    <th>Bukti yang Relevan</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="align-middle">
+                                        1. Elemen: Menyiapkan alat dan bahan untuk memberi perlakuan pada media tanam<br>
+                                        <b>Kriteria Unjuk Kerja:</b><br>
+                                        <div class="kriteria-margin">
+                                            <span>
+                                                1.1 Kebutuhan alat dan bahan untuk sterilisasi media diperiksa
+                                            </span><br>
+                                            <span>
+                                                1.2 Alat dan bahan campuran media tanam disiapkan sesuai kebutuhan
+                                            </span>
+                                        </div>
+                                    </td>
+                                    <td class="align-middle"><input type="checkbox" name="k1"></td>
+                                    <td class="align-middle"><input type="checkbox" name="bk1"></td>
+                                    <td class="align-middle">
+                                        <textarea name="bukti4" class="no-border" style="width: 100%; height: 100px; "></textarea>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="align-middle">
+                                        2. Elemen: Melakukan perendaman media tanam<br>
+                                        <b>Kriteria Unjuk Kerja:</b><br>
+                                        <div class="kriteria-margin">
+                                            <span>2.1 Persiapan perendaman media dilakukan
+                                            </span> <br>
+                                            <span>2.2 Media tanam dimasukkan ke dalam wadah khusus</span> <br>
+                                            <span>2.3 Media tanam direndam sesuai waktu yang ditetapkan</span> <br>
+                                            <span>2.4 Media dipotong-potong sesuai ukuran yang dikehendaki </span> <br>
+                                        </div>
+                                    </td>
+
+                                    <td class="align-middle"><input type="checkbox" name="k2"></td>
+                                    <td class="align-middle"><input type="checkbox" name="bk2"></td>
+                                    <td class="align-middle">
+                                        <textarea name="bukti4" class="no-border" style="width: 100%; height: 100px;"></textarea>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="align-middle">
+                                        3. Elemen: Mensterilkan media<br>
+                                        <b>Kriteria Unjuk Kerja:</b><br>
+                                        <div class="kriteria-margin">
+                                            <span>3.1 Media diletakkan dalam tempat sterilisasi</span><br>
+                                            <span>3.2 Media disterilkan dengan cara pengukusan sesuai SOP</span><br>
+                                            <span>3.3 Media dikering-anginkan</span>
+                                        </div>
+                                    </td>
+
+                                    <td class="align-middle"><input type="checkbox" name="k3"></td>
+                                    <td class="align-middle"><input type="checkbox" name="bk3"></td>
+                                    <td class="align-middle center">
+                                        <textarea name="bukti4" class="no-border" style="width: 100%; height: 100px; "></textarea>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="align-middle">
+                                        4. Elemen: Merapikan peralatan br>
+                                        <b>Kriteria Unjuk Kerja:</b><br>
+                                        <div class="kriteria-margin">
+                                            <span>4.1 Peralatan dibersihkan</span><br>
+                                            <span>4.2 Peralatan disimpan ke tempat semula</span><br>
+
+                                        </div>
+                                    </td>
+
+                                    <td class="align-middle"><input type="checkbox" name="k3"></td>
+                                    <td class="align-middle"><input type="checkbox" name="bk3"></td>
+                                    <td class="align-middle center">
                                         <textarea name="bukti4" class="no-border" style="width: 100%; height: 100px; "></textarea>
                                     </td>
                                 </tr>
