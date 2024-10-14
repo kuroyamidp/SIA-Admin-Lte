@@ -17,6 +17,17 @@
 @section('content')
 @include('layouts.scripts')
 <style>
+    .canvas-container {
+        border: 1px solid black;
+        width: 400px;
+        height: 100px;
+        margin-top: 10px;
+    }
+
+    button {
+        margin-top: 10px;
+    }
+
     /* Ensure the input field grows according to the height of its parent */
     .align-middle {
         vertical-align: middle;
@@ -754,7 +765,120 @@
                                     <i>Jika Ada, tuliskan</i>
                                 </td>
                             </tr>
-                            </table>
+                        </table>
+                        <br>
+                        <br>
+                        <table border="1" width="100%" cellpadding="2" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th>Orang yang relevan</th>
+                                    <th>Nama</th>
+                                    <th>Tandatangan dan Tanggal</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="align-middle">
+                                        Manajer sertifikasi LSP
+                                        <br>
+                                    </td>
+                                    <td class="align-middle">
+                                        <textarea name="bukti1" class="no-border" style="width: 100%;"></textarea>
+                                    </td>
+                                    <td class="align-middle">
+                                        <textarea name="bukti1" class="no-border" style="width: 100%;"></textarea>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="align-middle">
+                                        Master Asesor / Master Trainer / Lead Asesor Kompetensi
+                                        <br>
+                                    </td>
+                                    <td class="align-middle">
+                                        <textarea name="bukti1" class="no-border" style="width: 100%; "></textarea>
+                                    </td>
+                                    <td class="align-middle">
+                                        <textarea name="bukti1" class="no-border" style="width: 100%; "></textarea>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="align-middle">
+                                        Manajer pelatihan Lembaga Training terakreditasi / Lembaga Training terdaftar
+                                        <br>
+                                    </td>
+                                    <td class="align-middle">
+                                        <textarea name="bukti1" class="no-border" style="width: 100%; "></textarea>
+                                    </td>
+                                    <td class="align-middle">
+                                        <textarea name="bukti1" class="no-border" style="width: 100%; "></textarea>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="align-middle">
+                                        Manajer atau supervisor ditempat kerja
+                                        <br>
+                                    </td>
+                                    <td class="align-middle">
+                                        <textarea name="bukti1" class="no-border" style="width: 100%; "></textarea>
+                                    </td>
+                                    <td class="align-middle">
+                                        <textarea name="bukti1" class="no-border" style="width: 100%; "></textarea>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <h3>PENYUSUN DAN VALIDATOR</h3>
+
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th style="width: 15%;">STATUS</th>
+                                    <th style="width: 5%;">NO</th>
+                                    <th style="width: 35%;">NAMA</th>
+                                    <th style="width: 20%;">NOMOR MET</th>
+                                    <th style="width: 25%;">TANDA TANGAN DAN TANGGAL</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- Penyusun Row -->
+                                <tr>
+                                    <td rowspan="2" style="text-align: center;">PENYUSUN</td>
+                                    <td style="text-align: center;">1</td>
+                                    <td>Maria Ulfa</td>
+                                    <td>000.006680 2023</td>
+                                    <td>
+                                        <div class="canvas-container" style="border: 1px solid black; width: 400px; height: 100px;">
+                                            <canvas id="canvasAsesor" width="400" height="100"></canvas>
+                                        </div>
+                                        <button type="button" onclick="clearCanvas('canvasAsesor')">Clear</button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align: center;">2</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+
+                                <!-- Validator Row -->
+                                <tr>
+                                    <td rowspan="2" style="text-align: center;">VALIDATOR</td>
+                                    <td style="text-align: center;">1</td>
+                                    <td>Rivanna Citraning Rachmawati</td>
+                                    <td>000.006679 2023</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td style="text-align: center;">2</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                            </tbody>
+                        </table>
+
                     </div>
                     <div class="card-footer">
                         <button type="submit" class="btn btn-primary">Simpan</button>
@@ -773,6 +897,40 @@
 
 @section('js')
 <script>
-    // Additional JS if necessary
+    // Initialize canvas
+    const canvas = document.getElementById('canvasAsesor');
+    const ctx = canvas.getContext('2d');
+    let drawing = false;
+
+    // Start drawing on mousedown
+    canvas.addEventListener('mousedown', (e) => {
+        drawing = true;
+        ctx.beginPath();
+        ctx.moveTo(e.offsetX, e.offsetY);
+    });
+
+    // Draw as the mouse moves
+    canvas.addEventListener('mousemove', (e) => {
+        if (drawing) {
+            ctx.lineTo(e.offsetX, e.offsetY);
+            ctx.stroke();
+        }
+    });
+
+    // Stop drawing on mouseup or mouseleave
+    canvas.addEventListener('mouseup', () => {
+        drawing = false;
+    });
+    canvas.addEventListener('mouseleave', () => {
+        drawing = false;
+    });
+
+    // Function to clear the canvas
+    function clearCanvas(canvasId) {
+        const canvas = document.getElementById(canvasId);
+        const ctx = canvas.getContext('2d');
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+    }
 </script>
+
 @stop
