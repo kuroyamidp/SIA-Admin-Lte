@@ -196,7 +196,7 @@ return [
     'classes_content_wrapper' => '',
     'classes_content_header' => '',
     'classes_content' => '',
- 'classes_sidebar' => 'sidebar-gray elevation-4',
+    'classes_sidebar' => 'sidebar-gray elevation-4',
     'classes_sidebar_nav' => '',
     'classes_topnav' => 'navbar-white navbar-light',
     'classes_topnav_nav' => 'navbar-expand',
@@ -419,6 +419,12 @@ return [
                     'text' => 'FR.APL.02. ASESMEN MANDIRI',
                     'icon' => 'fas fa-fw fa-book-open',
                     'url' => '/frapl02',
+                    'classes' => 'submenu-item',
+                ],
+                [
+                    'text' => 'FR.IA.02.TUGAS PRAKTIK DEMONSTRASI',
+                    'icon' => 'fas fa-fw fa-book-open',
+                    'url' => '/fria02',
                     'classes' => 'submenu-item',
                 ],
                 [

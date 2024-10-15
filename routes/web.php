@@ -27,6 +27,7 @@ use App\Http\Controllers\Public\KrsController;
 use App\Http\Controllers\Public\ProfilemhsController;
 use App\Http\Controllers\FormController;
 use App\Http\Controllers\FRAPL02Controller;
+use App\Http\Controllers\FRIA02Controller;
 use App\Http\Controllers\FRIA05AController;
 use App\Http\Controllers\FRIA05CController;
 use App\Http\Controllers\FRIA06BController;
@@ -49,6 +50,7 @@ Route::resource('dosen', DosenController::class)->middleware(['auth', 'is_admin'
 Route::resource('mahasiswa', MahasiswaController::class)->middleware(['auth', 'is_admin']);
 Route::resource('daftar-kelas', DaftarkelasController::class)->middleware(['auth', 'is_admin']);
 Route::resource('frmapa01', FRMAPA01Controller::class)->middleware(['auth', 'is_admin']);
+Route::resource('fria02', FRIA02Controller::class)->middleware(['auth', 'is_admin']);
 Route::resource('frapl02', FRAPL02Controller::class)->middleware(['auth', 'is_admin']);
 Route::resource('fria06b', FRIA06BController::class)->middleware(['auth', 'is_admin']);
 Route::resource('fria05a', FRIA05AController::class)->middleware(['auth', 'is_admin']);
