@@ -24,9 +24,9 @@
         margin-top: 10px;
     }
 
-    button {
+    /* button {
         margin-top: 10px;
-    }
+    } */
 
     /* Ensure the input field grows according to the height of its parent */
     .align-middle {
@@ -161,6 +161,297 @@
                                     </td>
                                 </tr>
                         </table>
+                        <br>
+                        <br>
+                        <h4>
+                            <strong>A. Petunjuk</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>1. Baca dan pelajari setiap instruksi kerja di bawah ini dengan cermat sebelum melaksanakan praktek</h5>
+                            <h5>2. Klarifikasi kepada Asesor apabila ada hal-hal yang belum jelas </h5>
+                            <h5>3. Laksanakan pekerjaan sesuai dengan urutan proses yang sudah ditetapkan </h5>
+                            <h5>4. Seluruh proses kerja mengacu kepada SOP/WI yang dipersyaratkan </h5>
+                        </div>
+                        <br>
+                        <h4>
+                            <strong>B. Skenario</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>Anda sebagai seorang calon Pelaksana Budidaya Anggrek, pada saat ini anda diminta untuk melaksanakan prosedur dan SOP Budidaya Tanaman Anggrek.</h5>
+                        </div>
+                        <h4>
+                            <strong>C. Langkah Kerja (Elemen dan IK)</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>1. Mengikuti prosedur K3 dan melaksanakan prosedur darurat di tempat pembudidayaan tanaman anggrek</h5>
+                            <h5>2. Melakukan komunikasi, memproses dan melaporkan hasil komunikasi dengan rekan sekerja </h5>
+                            <h5>3. Menyiapkan, menggunakan, merawat dan melaporkan hasil penggunaan peralatan manual</h5>
+                            <h5>4. Menyiapkan dan mengatur alat dan bahan untuk menanam anggrek ditempat penanaman</h5>
+                        </div>
+                        <br>
+                        <table border="1" width="100%" cellpadding="10">
+                            <thead>
+                                <tr>
+                                    <td rowspan="4">
+                                        <strong style="color: blue; ">Perlakuan Media Tanam pada Budidaya Tanaman Anggrek</strong>
+                                    </td>
+
+                                    <td>
+                                        <strong>TAN.HO02.001.01</strong><br>
+                                        Mempersiapkan Media Tanam Terpilih Pada Budidaya Tanaman Anggrek
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong style="color: blue;">TAN.HO02.002.01</strong><br>
+                                        Memberikan Perlakuan untuk Media Khusus pada Budidaya Tanaman Anggrek
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>TAN. HO03.001.01</strong><br>
+                                        Melakukan Pencacahan Media
+                                    </td>
+                                </tr>
+
+                        </table>
+                        <br>
+                        <br>
+                        <h4>
+                            <strong>A. Petunjuk</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>1. Baca dan pelajari setiap instruksi kerja di bawah ini dengan cermat sebelum melaksanakan praktek.</h5>
+                            <h5>2. Klarifikasi kepada Asesor apabila ada hal-hal yang belum jelas.</h5>
+                            <h5>3. Laksanakan pekerjaan sesuai dengan urutan proses yang sudah ditetapkan.</h5>
+                            <h5>4. Seluruh proses kerja mengacu kepada SOP/WI yang dipersyaratkan.</h5>
+                        </div>
+                        <br>
+                        <h4>
+                            <strong>B. Skenario</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>Anda sebagai seorang calon Pelaksana Budidaya Anggrek, pada saat ini anda diminta untuk memberikan perlakuan media tanam terpilih pada budidaya tanaman Anggrek.</h5>
+                        </div>
+                        <h4>
+                            <strong>C. Langkah Kerja (Elemen dan IK)</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>1. Menyiapkan alat dan bahan media tanam dan menempatkan media di tempat penampungan media.</h5>
+                            <h5>2. Melakukan perendaman dan mensterilkan media tanam.</h5>
+                            <h5>3. Melakukan pencacahan media tanam dengan peralatan pencacah media.</h5>
+                        </div>
+                        <br>
+                        <br>
+                        <table border="1" width="100%" cellpadding="10">
+                            <thead>
+                                <tr>
+                                    <td rowspan="4">
+                                        <strong style="color: blue;">Perlakuan Bibit pada Budidaya Tanaman Anggrek</strong>
+                                    </td>
+                                    <td>
+                                        <strong>TAN.HO02.004.01</strong><br>
+                                        Menangani Bibit dalam botol pada budidaya tanaman anggrek
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong style="color: blue;">TAN.HO02.005.01</strong><br>
+                                        Menangani Bibit Pot Kelompok pada Budidaya Tanaman Anggrek
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>TAN.HO02.006.01</strong><br>
+                                        Menangani Bibit Individu Pot Tunggal pada Budidaya Tanaman Anggrek
+                                    </td>
+                                </tr>
+                            </thead>
+                        </table>
+                        <br>
+                        <br>
+                        <h4>
+                            <strong>A. Petunjuk</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>1. Baca dan pelajari setiap instruksi kerja di bawah ini dengan cermat sebelum melaksanakan praktek.</h5>
+                            <h5>2. Klarifikasi kepada Asesor apabila ada hal-hal yang belum jelas.</h5>
+                            <h5>3. Laksanakan pekerjaan sesuai dengan urutan proses yang sudah ditetapkan.</h5>
+                            <h5>4. Seluruh proses kerja mengacu kepada SOP/WI yang dipersyaratkan.</h5>
+                        </div>
+                        <br>
+                        <h4>
+                            <strong>B. Skenario</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>Anda sebagai seorang calon Pelaksana Budidaya Anggrek, pada saat ini anda diminta untuk menangani bibit dalam botol pada budidaya tanaman Anggrek.</h5>
+                        </div>
+                        <h4>
+                            <strong>C. Langkah Kerja (Elemen dan IK)</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>1. Mengeluarkan, menanam planlet dari botol, memberi pelabelan pada setiap pot tanam dan melaporkan hasil penanganan bibit dalam botol.</h5>
+                            <h5>2. Mengeluarkan, menanam bibit pot kelompok, memberi pelabelan pada setiap pot tanam, dan menempatkan bibit dalam tray di lokasi yang sudah ditetapkan.</h5>
+                            <h5>3. Memilah, menanam bibit pot tunggal, memberi pelabelan pada setiap pot tanam dan menempatkan bibit dalam tray.</h5>
+                        </div>
+                        <br>
+                        <br>
+                        <table border="1" width="100%" cellpadding="10">
+                            <thead>
+                                <tr>
+                                    <td rowspan="10">
+                                        <strong style="color: blue;">Perawatan Budidaya Tanaman Anggrek</strong>
+                                    </td>
+                                    <td>
+                                        <strong>TAN.HO02.007.01</strong><br>
+                                        Memasang Jaringan Irigasi pada Budidaya Tanaman Anggrek
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>TAN.HO02.008.01</strong><br>
+                                        Mengoperasikan jaringan irigasi pada Budidaya Tanaman Anggrek
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>TAN.HO02.009.01</strong><br>
+                                        Memupuk Tanaman Anggrek sesuai Jadwal
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>TAN.HO02.010.01</strong><br>
+                                        Melaksanakan penyiraman sesuai jadwal yang ditetapkan pada Budidaya Tanaman Anggrek
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>TAN.HO02.011.01</strong><br>
+                                        Mengendalikan Hama Penyakit dengan menggunakan Pestisida pada Budidaya Tanaman Anggrek
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>TAN.HO02.012.01</strong><br>
+                                        Melakukan Pemberian Zat pengatur Tumbuh (ZPT) pada Budidaya Tanaman Anggrek
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>TAN.HO02.013.01</strong><br>
+                                        Mengendalikan Gulma pada Budidaya Tanaman Anggrek sesuai Kondisi Lapangan
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>TAN.HO02.014.01</strong><br>
+                                        Melakukan Repotting pada Budidaya Tanaman Anggrek
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>TAN.HO02.015.01</strong><br>
+                                        Memasang Penyangga pada Tanaman/Tangkai Anggrek
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>TAN.HO02.020.01</strong><br>
+                                        Melakukan Kegiatan Sanitasi Lingkungan Nurseri Tanaman Anggrek
+                                    </td>
+                                </tr>
+                            </thead>
+                        </table>
+                        <br>
+                        <br>
+                        <h4>
+                            <strong>A. Petunjuk</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>1. Baca dan pelajari setiap instruksi kerja di bawah ini dengan cermat sebelum melaksanakan praktek.</h5>
+                            <h5>2. Klarifikasi kepada Asesor apabila ada hal-hal yang belum jelas.</h5>
+                            <h5>3. Laksanakan pekerjaan sesuai dengan urutan proses yang sudah ditetapkan.</h5>
+                            <h5>4. Seluruh proses kerja mengacu kepada SOP/WI yang dipersyaratkan.</h5>
+                        </div>
+                        <br>
+                        <h4>
+                            <strong>B. Skenario</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>Anda sebagai seorang calon Pelaksana Budidaya Anggrek, pada saat ini anda diminta untuk memasang jaringan irigasi pada budidaya tanaman Anggrek.</h5>
+                        </div>
+                        <h4>
+                            <strong>C. Langkah Kerja (Elemen dan IK)</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>1. Menyiapkan dan memasang bahan dan alat irigasi yang diperlukan pada budidaya anggrek.</h5>
+                            <h5>2. Memeriksa ulang kondisi dan mengoperasikan instalasi irigasi.</h5>
+                            <h5>3. Melakukan kegiatan pemupukan tanaman anggrek.</h5>
+                            <h5>4. Mengecek sumber air dan jaringan irigasi serta melakukan penyiraman ke tanaman anggrek.</h5>
+                            <h5>5. Menyemprot tanaman dengan larutan pestisida dan melakukan tindakan pasca penyemprotan pestisida.</h5>
+                            <h5>6. Membuat larutan ZPT dan mengaplikasikan ZPT ke tanaman.</h5>
+                            <h5>7. Melakukan kegiatan pengendalian gulma.</h5>
+                            <h5>8. Menyiapkan tanaman yang akan di repotting dan melakukan repotting pada anggrek.</h5>
+                            <h5>9. Memasang penyangga pada tanaman atau tangkai anggrek.</h5>
+                            <h5>10. Melakukan sortasi, grading, pelabelan dan mencatat hasil kegiatan sortasi dan grading.</h5>
+                            <h5>11. Melakukan pekerjaan sanitasi lingkungan sesuai standar dan kriteria lingkungan yang ditetapkan.</h5>
+                        </div>
+                        <br>
+                        <br>
+                        <table border="1" width="100%" cellpadding="10">
+                            <thead>
+                                <tr>
+                                    <td rowspan="4">
+                                        <strong style="color: blue;">Pemanenan dan Pengemasan Tanaman Anggrek</strong>
+                                    </td>
+                                    <td>
+                                        <strong>TAN.HO02.016.01</strong><br>
+                                        Memanen Tanaman Anggrek Potong
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>TAN.HO02.017.01</strong><br>
+                                        Memanen Tanaman Anggrek Pot
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <strong>TAN.HO02.019.01</strong><br>
+                                        Melakukan Pengemasan Tanaman Anggrek
+                                    </td>
+                                </tr>
+                            </thead>
+                        </table>
+                        <br>
+                        <br>
+                        <h4>
+                            <strong>A. Petunjuk</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>1. Baca dan pelajari setiap instruksi kerja di bawah ini dengan cermat sebelum melaksanakan praktek.</h5>
+                            <h5>2. Klarifikasi kepada Asesor apabila ada hal-hal yang belum jelas.</h5>
+                            <h5>3. Laksanakan pekerjaan sesuai dengan urutan proses yang sudah ditetapkan.</h5>
+                            <h5>4. Seluruh proses kerja mengacu kepada SOP/WI yang dipersyaratkan.</h5>
+                        </div>
+                        <br>
+                        <h4>
+                            <strong>B. Skenario</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>Anda sebagai seorang calon Pelaksana Budidaya Anggrek, pada saat ini anda diminta untuk memanen tanaman Anggrek potong.</h5>
+                        </div>
+                        <h4>
+                            <strong>C. Langkah Kerja (Elemen dan IK)</strong>
+                        </h4>
+                        <div style="margin-left: 20px;">
+                            <h5>1. Memanen tanaman bunga anggrek potong dan mencatat hasil panen.</h5>
+                            <h5>2. Memilih tanaman anggrek potong yang siap panen dan mengangkut tanaman hasil pemilihan panen.</h5>
+                            <h5>3. Mengemas anggrek potong dalam pot.</h5>
+                        </div>
+                        <br>
+
                     </div>
                     <div class="card-footer">
                         <button type="submit" class="btn btn-primary">Simpan</button>

@@ -24,17 +24,14 @@ class AuthServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        // Gate untuk melihat dashboard (hanya user dengan role_id 0, misalnya admin)
         Gate::define('view-dashboard', function ($user) {
-            return in_array($user->role_id, [0, 1, 2]); // Pengguna dengan role_id 0, 1, atau 2 bisa melihat dashboard.
+            return in_array($user->role_id, [0, 1, 2]); 
         });        
-        // Gate untuk mengelola master data (misalnya, hanya superadmin dengan role_id 1)
         Gate::define('manage-master-data', function ($user) {
-            return $user->role_id == 0; 
-            // return in_array($user->role_id, [0, 1, 2]);// Hanya pengguna dengan role_id 1 (superadmin) yang bisa mengelola master data.
+            // return $user->role_id == 0; 
+            return in_array($user->role_id, [0, 2]); 
         });
-    
-        // Definisikan gate lain sesuai kebutuhan...
+
     }
     
 }

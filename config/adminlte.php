@@ -63,7 +63,7 @@ return [
     |
     */
 
-    'logo' => '<b>UJI KOMPETENSI</b>',
+    'logo' => '<b>Admin</b>LTE',
     'logo_img' => 'vendor/adminlte/dist/img/AdminLTELogo.png',
     'logo_img_class' => 'brand-image img-circle elevation-3',
     'logo_img_xl' => null,
@@ -134,8 +134,8 @@ return [
     */
 
     'usermenu_enabled' => false,
-    'usermenu_header' => true,
-    'usermenu_header_class' => 'bg-secondary',
+    'usermenu_header' => false,
+    'usermenu_header_class' => 'bg-primary',
     'usermenu_image' => false,
     'usermenu_desc' => false,
     'usermenu_profile_url' => false,
@@ -196,7 +196,7 @@ return [
     'classes_content_wrapper' => '',
     'classes_content_header' => '',
     'classes_content' => '',
-    'classes_sidebar' => 'sidebar-gray elevation-4',
+    'classes_sidebar' => 'sidebar-dark-primary elevation-4',
     'classes_sidebar_nav' => '',
     'classes_topnav' => 'navbar-white navbar-light',
     'classes_topnav_nav' => 'navbar-expand',
@@ -264,22 +264,27 @@ return [
     'password_reset_url' => 'password/reset',
     'password_email_url' => 'password/email',
     'profile_url' => false,
+    'disable_darkmode_routes' => false,
 
     /*
     |--------------------------------------------------------------------------
-    | Laravel Mix
+    | Laravel Asset Bundling
     |--------------------------------------------------------------------------
     |
-    | Here we can enable the Laravel Mix option for the admin panel.
+    | Here we can enable the Laravel Asset Bundling option for the admin panel.
+    | Currently, the next modes are supported: 'mix', 'vite' and 'vite_js_only'.
+    | When using 'vite_js_only', it's expected that your CSS is imported using
+    | JavaScript. Typically, in your application's 'resources/js/app.js' file.
+    | If you are not using any of these, leave it as 'false'.
     |
-    | For detailed instructions you can look the laravel mix section here:
+    | For detailed instructions you can look the asset bundling section here:
     | https://github.com/jeroennoten/Laravel-AdminLTE/wiki/Other-Configuration
     |
     */
 
-    'enabled_laravel_mix' => false,
-    'laravel_mix_css_path' => 'css/app.css',
-    'laravel_mix_js_path' => 'js/app.js',
+    'laravel_asset_bundling' => false,
+    'laravel_css_path' => 'css/app.css',
+    'laravel_js_path' => 'js/app.js',
 
     /*
     |--------------------------------------------------------------------------
@@ -305,7 +310,7 @@ return [
             'topnav_right' => false,
         ],
 
-        // Sidebar items:
+
         [
             'type' => 'sidebar-menu-search',
             'text' => 'search',
@@ -425,6 +430,18 @@ return [
                     'text' => 'FR.IA.02.TUGAS PRAKTIK DEMONSTRASI',
                     'icon' => 'fas fa-fw fa-book-open',
                     'url' => '/fria02',
+                    'classes' => 'submenu-item',
+                ],
+                [
+                    'text' => 'FR.AK.04 BANDING ASESMEN',
+                    'icon' => 'fas fa-fw fa-book-open',
+                    'url' => '/frak04',
+                    'classes' => 'submenu-item',
+                ],
+                [
+                    'text' => 'FR.IA.06 PERTANYAAN TERTULIS ESAI',
+                    'icon' => 'fas fa-fw fa-book-open',
+                    'url' => '/fria06',
                     'classes' => 'submenu-item',
                 ],
                 [

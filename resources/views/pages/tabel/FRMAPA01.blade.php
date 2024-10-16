@@ -24,9 +24,9 @@
         margin-top: 10px;
     }
 
-    button {
+    /* button {
         margin-top: 10px;
-    }
+    } */
 
     /* Ensure the input field grows according to the height of its parent */
     .align-middle {
