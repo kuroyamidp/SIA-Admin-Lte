@@ -332,36 +332,36 @@ return [
             'icon' => 'fas fa-fw fa-bars',
             'can'  => 'manage-master-data',
             'submenu' => [
-                [
-                    'text' => 'Mata Kuliah',
-                    'icon' => 'fas fa-fw fa-book',
-                    'url' => '/matakuliah',
-                    'classes' => 'submenu-item',
-                ],
-                [
-                    'text' => 'Progdi',
-                    'icon' => 'fas fa-fw fa-user',
-                    'url' => '/progdi',
-                    'classes' => 'submenu-item', // tambahkan kelas custom
-                ],
-                [
-                    'text' => 'Ruang Kelas',
-                    'icon' => 'fas fa-fw fa-bookmark',
-                    'url' => '/ruangkelas',
-                    'classes' => 'submenu-item', // tambahkan kelas custom
-                ],
-                [
-                    'text' => 'Kelas',
-                    'icon' => 'fas fa-fw fa-book-open',
-                    'url' => '/kelas',
-                    'classes' => 'submenu-item', // tambahkan kelas custom
-                ],
-                [
-                    'text' => 'Waktu',
-                    'icon' => 'fas fa-fw fa-clock',
-                    'url' => '/waktu',
-                    'classes' => 'submenu-item', // tambahkan kelas custom
-                ],
+                // [
+                //     'text' => 'Mata Kuliah',
+                //     'icon' => 'fas fa-fw fa-book',
+                //     'url' => '/matakuliah',
+                //     'classes' => 'submenu-item',
+                // ],
+                // [
+                //     'text' => 'Progdi',
+                //     'icon' => 'fas fa-fw fa-user',
+                //     'url' => '/progdi',
+                //     'classes' => 'submenu-item', // tambahkan kelas custom
+                // ],
+                // [
+                //     'text' => 'Ruang Kelas',
+                //     'icon' => 'fas fa-fw fa-bookmark',
+                //     'url' => '/ruangkelas',
+                //     'classes' => 'submenu-item', // tambahkan kelas custom
+                // ],
+                // [
+                //     'text' => 'Kelas',
+                //     'icon' => 'fas fa-fw fa-book-open',
+                //     'url' => '/kelas',
+                //     'classes' => 'submenu-item', // tambahkan kelas custom
+                // ],
+                // [
+                //     'text' => 'Waktu',
+                //     'icon' => 'fas fa-fw fa-clock',
+                //     'url' => '/waktu',
+                //     'classes' => 'submenu-item', // tambahkan kelas custom
+                // ],
                 [
                     'text' => 'Mahasiswa',
                     'icon' => 'fas fa-fw fa-user',
@@ -376,20 +376,20 @@ return [
                 ],
             ],
         ],
-        [
-            'text' => 'Jadwal Kuliah',
-            'url' => '/daftar-kelas',
-            'icon' => 'fas fa-fw fa-book-open',
-            'can'  => 'view-dashboard',
-            'label_color' => 'success',
-        ],
-        [
-            'text' => 'Absensi Siswa',
-            'url' => '/absensi',
-            'icon' => 'fas fa-fw fa-user-plus',
-            'can'  => 'view-dashboard',
-            'label_color' => 'success',
-        ],
+        // [
+        //     'text' => 'Jadwal Kuliah',
+        //     'url' => '/daftar-kelas',
+        //     'icon' => 'fas fa-fw fa-book-open',
+        //     'can'  => 'view-dashboard',
+        //     'label_color' => 'success',
+        // ],
+        // [
+        //     'text' => 'Absensi Siswa',
+        //     'url' => '/absensi',
+        //     'icon' => 'fas fa-fw fa-user-plus',
+        //     'can'  => 'view-dashboard',
+        //     'label_color' => 'success',
+        // ],
         [
             'text' => 'User Account',
             'icon' => 'fas fa-fw fa-wrench',
@@ -465,23 +465,23 @@ return [
 
             ],
         ],
-        ['header' => 'labels'],
-        [
-            'text' => 'important',
-            'icon_color' => 'red',
-            'url' => '#',
-        ],
-        [
-            'text' => 'warning',
-            'icon_color' => 'yellow',
-            'url' => '#',
-        ],
-        [
-            'text' => 'information',
-            'icon_color' => 'cyan',
-            'label' => 4,
-            'url' => '#',
-        ],
+        // ['header' => 'labels'],
+        // [
+        //     'text' => 'important',
+        //     'icon_color' => 'red',
+        //     'url' => '#',
+        // ],
+        // [
+        //     'text' => 'warning',
+        //     'icon_color' => 'yellow',
+        //     'url' => '#',
+        // ],
+        // [
+        //     'text' => 'information',
+        //     'icon_color' => 'cyan',
+        //     'label' => 4,
+        //     'url' => '#',
+        // ],
     ],
 
     /*
