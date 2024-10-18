@@ -212,241 +212,285 @@
                         <br>
                         <br>
 
-<!-- Perlakuan Bibit pada Budidaya Tanaman Anggrek -->
-<table border="1" width="100%" cellpadding="10" class="table-border">
-    <tr>
-        <td rowspan="4" style="width: 20%;">Perlakuan Bibit pada Budidaya Tanaman Anggrek</td> <!-- Merged downwards -->
-        <td>No.</td>
-        <td>Kode Unit</td>
-        <td>Judul Unit</td>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>TAN.HO02.004.01</td>
-        <td>Menangani Bibit dalam botol pada budidaya tanaman anggrek</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>TAN.HO02.005.01</td>
-        <td>Menangani Bibit Pot Kelompok pada Budidaya Tanaman Anggrek</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>TAN.HO02.006.01</td>
-        <td>Menangani Bibit Individu Pot Tunggal pada Budidaya Tanaman Anggrek</td>
-    </tr>
-</table>
-<br>
-<h6>Jawab semua pertanyaan di bawah ini:</h6>
-<br>
-<table border="1" width="100%" cellpadding="10" class="table-border">
-    <tr>
-        <td style="width: 50%;">1. Bagaimanakah SOP pengeluaran planlet dari botol? (JRES)</td>
-        <td>
-            <textarea name="bukti1" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-    <tr>
-        <td>2. Bagaimana cara mengkategorikan tanaman yang ditanam dalam keadaan segar dan tegak (kokoh)? (TS)</td>
-        <td>
-            <textarea name="bukti2" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-    <tr>
-        <td>3. Bagaimanakah cara mengeluarkan dari wadah tanam? (JRES)</td>
-        <td>
-            <textarea name="bukti3" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-</table>
+                        <!-- Perlakuan Bibit pada Budidaya Tanaman Anggrek -->
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <tr>
+                                <td rowspan="4" style="width: 20%;">Perlakuan Bibit pada Budidaya Tanaman Anggrek</td> <!-- Merged downwards -->
+                                <td>No.</td>
+                                <td>Kode Unit</td>
+                                <td>Judul Unit</td>
+                            </tr>
+                            <tr>
+                                <td>1</td>
+                                <td>TAN.HO02.004.01</td>
+                                <td>Menangani Bibit dalam botol pada budidaya tanaman anggrek</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>TAN.HO02.005.01</td>
+                                <td>Menangani Bibit Pot Kelompok pada Budidaya Tanaman Anggrek</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>TAN.HO02.006.01</td>
+                                <td>Menangani Bibit Individu Pot Tunggal pada Budidaya Tanaman Anggrek</td>
+                            </tr>
+                        </table>
+                        <br>
+                        <h6>Jawab semua pertanyaan di bawah ini:</h6>
+                        <br>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <tr>
+                                <td style="width: 50%;">1. Bagaimanakah SOP pengeluaran planlet dari botol? (JRES)</td>
+                                <td>
+                                    <textarea name="bukti1" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>2. Bagaimana cara mengkategorikan tanaman yang ditanam dalam keadaan segar dan tegak (kokoh)? (TS)</td>
+                                <td>
+                                    <textarea name="bukti2" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>3. Bagaimanakah cara mengeluarkan dari wadah tanam? (JRES)</td>
+                                <td>
+                                    <textarea name="bukti3" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                        </table>
 
-<br><br>
+                        <br><br>
 
-<!-- Perawatan Budidaya Tanaman Anggrek -->
-<table border="1" width="100%" cellpadding="12" class="table-border">
-    <tr>
-        <td rowspan="12" style="width: 20%;">Perawatan Budidaya Tanaman Anggrek</td> <!-- Merged downwards -->
-        <td>No.</td>
-        <td>Kode Unit</td>
-        <td>Judul Unit</td>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>TAN.HO02.007.01</td>
-        <td>Memasang Jaringan Irigasi pada Budidaya Tanaman Anggrek</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>TAN.HO02.008.01</td>
-        <td>Mengoperasikan jaringan irigasi pada Budidaya Tanaman Anggrek</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>TAN.HO02.009.01</td>
-        <td>Memupuk Tanaman Anggrek sesuai Jadwal</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>TAN.HO02.010.01</td>
-        <td>Melaksanakan penyiraman sesuai jadwal yang ditetapkan pada Budidaya Tanaman Anggrek</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>TAN.HO02.011.01</td>
-        <td>Mengendalikan Hama Penyakit dengan menggunakan Pestisida pada Budidaya Tanaman Anggrek</td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>TAN.HO02.012.01</td>
-        <td>Melakukan Pemberian Zat pengatur Tumbuh (ZPT) pada Budidaya Tanaman Anggrek</td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>TAN.HO02.013.01</td>
-        <td>Mengendalikan Gulma pada Budidaya Tanaman Anggrek sesuai Kondisi Lapangan</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>TAN.HO02.014.01</td>
-        <td>Melakukan Repotting pada Budidaya Tanaman Anggrek</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>TAN.HO02.015.01</td>
-        <td>Memasang Penyangga pada Tanaman/Tangkai Anggrek</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>TAN.HO02.018.01</td>
-        <td>Melakukan Sortasi dan Grading Tanaman Anggrek Potong dan Pot</td>
-    </tr>
-    <tr>
-        <td>11</td>
-        <td>TAN.HO02.020.01</td>
-        <td>Melakukan Kegiatan Sanitasi Lingkungan Nurseri Tanaman Anggrek</td>
-    </tr>
-</table>
-<br>
-<h6>Jawab semua pertanyaan di bawah ini:</h6>
-<br>
-<table border="1" width="100%" cellpadding="10" class="table-border">
-    <tr>
-        <td style="width: 50%;">1. Bagaimanakah peralatan irigasi ditempatkan pada saluran yang sesuai dengan rancangan yang dibuat? (JRES)</td>
-        <td>
-            <textarea name="bukti1" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-    <tr>
-        <td>2. Bagaimana cara menganalisis kondisi instalasi dan melaporannya? (TMS)</td>
-        <td>
-            <textarea name="bukti2" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-    <tr>
-        <td>3. Bagaimana cara teknik pemupukan yang sesuai dengan petunjuk? (JRES)</td>
-        <td>
-            <textarea name="bukti3" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-    <tr>
-        <td>4. Bagaimana tindakan penyiraman sesuai anjuran SOP? (JRES)</td>
-        <td>
-            <textarea name="bukti4" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-    <tr>
-        <td>5. Bagaimana cara penyemprotan larutan pestisida sesuai dengan teknik dan waktu yang dianjurkan? (JRES)</td>
-        <td>
-            <textarea name="bukti5" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-    <tr>
-        <td>6. Bagaimana cara menggunakan larutan ZPT sesuai kebutuhan? (JRES)</td>
-        <td>
-            <textarea name="bukti6" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-    <tr>
-        <td>7. Bagaimana prosedur pengendalian gulma dengan menggunakan herbisida sesuai dengan cara, dosis, dan waktu yang dianjurkan? (JRES)</td>
-        <td>
-            <textarea name="bukti7" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-    <tr>
-        <td>8. Apa saja peralatan dan bahan media tanam serta pot yang diperlukan untuk melakukan repotting? (TS)</td>
-        <td>
-            <textarea name="bukti8" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-    <tr>
-        <td>9. Bagaimanakah pemasangan penyangga sesuai SOP? (JRES)</td>
-        <td>
-            <textarea name="bukti9" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-    <tr>
-        <td>10. Bagaimanakah ketentuan standar mutu produk yang berlaku? (TMS)</td>
-        <td>
-            <textarea name="bukti10" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-    <tr>
-        <td>11. Bagaimanakah SOP tentang kegiatan sanitasi lingkungan? (JRES)</td>
-        <td>
-            <textarea name="bukti11" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-</table>
+                        <!-- Perawatan Budidaya Tanaman Anggrek -->
+                        <table border="1" width="100%" cellpadding="12" class="table-border">
+                            <tr>
+                                <td rowspan="12" style="width: 20%;">Perawatan Budidaya Tanaman Anggrek</td> <!-- Merged downwards -->
+                                <td>No.</td>
+                                <td>Kode Unit</td>
+                                <td>Judul Unit</td>
+                            </tr>
+                            <tr>
+                                <td>1</td>
+                                <td>TAN.HO02.007.01</td>
+                                <td>Memasang Jaringan Irigasi pada Budidaya Tanaman Anggrek</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>TAN.HO02.008.01</td>
+                                <td>Mengoperasikan jaringan irigasi pada Budidaya Tanaman Anggrek</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>TAN.HO02.009.01</td>
+                                <td>Memupuk Tanaman Anggrek sesuai Jadwal</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>TAN.HO02.010.01</td>
+                                <td>Melaksanakan penyiraman sesuai jadwal yang ditetapkan pada Budidaya Tanaman Anggrek</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>TAN.HO02.011.01</td>
+                                <td>Mengendalikan Hama Penyakit dengan menggunakan Pestisida pada Budidaya Tanaman Anggrek</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>TAN.HO02.012.01</td>
+                                <td>Melakukan Pemberian Zat pengatur Tumbuh (ZPT) pada Budidaya Tanaman Anggrek</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>TAN.HO02.013.01</td>
+                                <td>Mengendalikan Gulma pada Budidaya Tanaman Anggrek sesuai Kondisi Lapangan</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>TAN.HO02.014.01</td>
+                                <td>Melakukan Repotting pada Budidaya Tanaman Anggrek</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>TAN.HO02.015.01</td>
+                                <td>Memasang Penyangga pada Tanaman/Tangkai Anggrek</td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>TAN.HO02.018.01</td>
+                                <td>Melakukan Sortasi dan Grading Tanaman Anggrek Potong dan Pot</td>
+                            </tr>
+                            <tr>
+                                <td>11</td>
+                                <td>TAN.HO02.020.01</td>
+                                <td>Melakukan Kegiatan Sanitasi Lingkungan Nurseri Tanaman Anggrek</td>
+                            </tr>
+                        </table>
+                        <br>
+                        <h6>Jawab semua pertanyaan di bawah ini:</h6>
+                        <br>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <tr>
+                                <td style="width: 50%;">1. Bagaimanakah peralatan irigasi ditempatkan pada saluran yang sesuai dengan rancangan yang dibuat? (JRES)</td>
+                                <td>
+                                    <textarea name="bukti1" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>2. Bagaimana cara menganalisis kondisi instalasi dan melaporannya? (TMS)</td>
+                                <td>
+                                    <textarea name="bukti2" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>3. Bagaimana cara teknik pemupukan yang sesuai dengan petunjuk? (JRES)</td>
+                                <td>
+                                    <textarea name="bukti3" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>4. Bagaimana tindakan penyiraman sesuai anjuran SOP? (JRES)</td>
+                                <td>
+                                    <textarea name="bukti4" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>5. Bagaimana cara penyemprotan larutan pestisida sesuai dengan teknik dan waktu yang dianjurkan? (JRES)</td>
+                                <td>
+                                    <textarea name="bukti5" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>6. Bagaimana cara menggunakan larutan ZPT sesuai kebutuhan? (JRES)</td>
+                                <td>
+                                    <textarea name="bukti6" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>7. Bagaimana prosedur pengendalian gulma dengan menggunakan herbisida sesuai dengan cara, dosis, dan waktu yang dianjurkan? (JRES)</td>
+                                <td>
+                                    <textarea name="bukti7" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>8. Apa saja peralatan dan bahan media tanam serta pot yang diperlukan untuk melakukan repotting? (TS)</td>
+                                <td>
+                                    <textarea name="bukti8" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>9. Bagaimanakah pemasangan penyangga sesuai SOP? (JRES)</td>
+                                <td>
+                                    <textarea name="bukti9" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>10. Bagaimanakah ketentuan standar mutu produk yang berlaku? (TMS)</td>
+                                <td>
+                                    <textarea name="bukti10" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>11. Bagaimanakah SOP tentang kegiatan sanitasi lingkungan? (JRES)</td>
+                                <td>
+                                    <textarea name="bukti11" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                        </table>
 
-<br><br>
+                        <br><br>
 
-<!-- Pemanenan dan Pengemasan Tanaman Anggrek -->
-<table border="1" width="100%" cellpadding="10" class="table-border">
-    <tr>
-        <td rowspan="4" style="width: 20%;">Pemanenan dan Pengemasan Tanaman Anggrek</td> <!-- Merged downwards -->
-        <td>No.</td>
-        <td>Kode Unit</td>
-        <td>Judul Unit</td>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>TAN.HO02.016.01</td>
-        <td>Memanen Tanaman Anggrek Potong</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>TAN.HO02.017.01</td>
-        <td>Memanen Tanaman Anggrek Pot</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>TAN.HO02.019.01</td>
-        <td>Melakukan Pengemasan Tanaman Anggrek</td>
-    </tr>
-</table>
-<br>
-<h6>Jawab semua pertanyaan di bawah ini:</h6>
-<br>
-<table border="1" width="100%" cellpadding="10" class="table-border">
-    <tr>
-        <td style="width: 50%;">1. Apakah prosedur memanenan tanaman sesuai dengan kriteria, waktu, ukuran yang ditentukan perusahaan? (JRES)</td>
-        <td>
-            <textarea name="bukti1" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-    <tr>
-        <td>2. Bagaimanakah syarat tanaman anggrek pot yang siap panen sesuai SOP? (JRES)</td>
-        <td>
-            <textarea name="bukti2" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-    <tr>
-        <td>3. Bagaimanakah cara membungkus bunga anggrek potong dengan kemasan? (TS)</td>
-        <td>
-            <textarea name="bukti3" class="no-border" style="width: 100%;"></textarea>
-        </td>
-    </tr>
-</table>
+                        <!-- Pemanenan dan Pengemasan Tanaman Anggrek -->
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <tr>
+                                <td rowspan="4" style="width: 20%;">Pemanenan dan Pengemasan Tanaman Anggrek</td> <!-- Merged downwards -->
+                                <td>No.</td>
+                                <td>Kode Unit</td>
+                                <td>Judul Unit</td>
+                            </tr>
+                            <tr>
+                                <td>1</td>
+                                <td>TAN.HO02.016.01</td>
+                                <td>Memanen Tanaman Anggrek Potong</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>TAN.HO02.017.01</td>
+                                <td>Memanen Tanaman Anggrek Pot</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>TAN.HO02.019.01</td>
+                                <td>Melakukan Pengemasan Tanaman Anggrek</td>
+                            </tr>
+                        </table>
+                        <br>
+                        <h6>Jawab semua pertanyaan di bawah ini:</h6>
+                        <br>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <tr>
+                                <td style="width: 50%;">1. Apakah prosedur memanenan tanaman sesuai dengan kriteria, waktu, ukuran yang ditentukan perusahaan? (JRES)</td>
+                                <td>
+                                    <textarea name="bukti1" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>2. Bagaimanakah syarat tanaman anggrek pot yang siap panen sesuai SOP? (JRES)</td>
+                                <td>
+                                    <textarea name="bukti2" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>3. Bagaimanakah cara membungkus bunga anggrek potong dengan kemasan? (TS)</td>
+                                <td>
+                                    <textarea name="bukti3" class="no-border" style="width: 100%;"></textarea>
+                                </td>
+                            </tr>
+                        </table>
+                        <br><br>
+                        <h6> Pelatih / Asesor harus menggunakan kebijaksanaan (professional justification) saat menentukan apakah jawaban yang diberikan oleh Asesi dapat diterima atau tidak.</h6>
+                        <ul>
+                            <li>Daftar pertanyaan dapat berisi pertanyaan dari semua dimensi kompetensi. Jika ada pertanyaan yang tidak dijawab, maka dapat dieksplorasi dari menilai melalui pertanyaan verbal.</li>
+                            <li>Pertanyaan juga dapat difokuskan pada akurasi dan presisi yang dapat membantu memberikan rekomendasi tindak lanjut untuk menilai.</li>
+                            <li>Pertanyaan presisi jika tidak dapat dijawab, penilai disarankan untuk menambahkan lebih banyak latihan / bekerja di bawah pengawasan, sedangkan jika pertanyaan akurasi dilewatkan maka penilai direkomendasikan untuk pelatihan ulang</li>
+                        </ul>
+                        <br><br>
+                        <h6>Penyusun dan Validator:</h6>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr style="background-color: #f4a460;">
+                                    <th>Nama</th>
+                                    <th>Jabatan</th>
+                                    <th>Tandatangan</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <textarea name="bukti1" class="no-border" style="width: 100%; height: 100px; "></textarea>
+                                    </td>
+                                    <td>Penyusun</td>
+                                    <td>
+                                        <div class="canvas-container">
+                                            <canvas id="canvasPenyusun" width="400" height="100"></canvas>
+                                        </div>
+                                        <button type="button" onclick="clearCanvas('canvasPenyusun')">Clear</button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <textarea name="bukti1" class="no-border" style="width: 100%; height: 100px; "></textarea>
+                                    </td>
+                                    <td>Validator</td>
+                                    <td>
+                                        <div class="canvas-container">
+                                            <canvas id="canvasValidator" width="400" height="100"></canvas>
+                                        </div>
+                                        <button type="button" onclick="clearCanvas('canvasValidator')">Clear</button>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
 
                     </div>
                     <div class="card-footer">
@@ -467,6 +511,41 @@
 
 @section('js')
 <script>
-    // Additional JS if necessary
+    function initCanvas(canvasId) {
+        const canvas = document.getElementById(canvasId);
+        const ctx = canvas.getContext('2d');
+        let drawing = false;
+
+        canvas.addEventListener('mousedown', (e) => {
+            drawing = true;
+            ctx.beginPath();
+            ctx.moveTo(e.offsetX, e.offsetY);
+        });
+
+        canvas.addEventListener('mousemove', (e) => {
+            if (drawing) {
+                ctx.lineTo(e.offsetX, e.offsetY);
+                ctx.stroke();
+            }
+        });
+
+        canvas.addEventListener('mouseup', () => {
+            drawing = false;
+        });
+
+        canvas.addEventListener('mouseleave', () => {
+            drawing = false;
+        });
+    }
+
+    function clearCanvas(canvasId) {
+        const canvas = document.getElementById(canvasId);
+        const ctx = canvas.getContext('2d');
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+    }
+
+    // Inisialisasi canvas untuk asesmen dan asesor
+    initCanvas('canvasPenyusun');
+    initCanvas('canvasValidator');
 </script>
 @stop

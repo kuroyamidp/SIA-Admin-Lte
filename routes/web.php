@@ -28,6 +28,7 @@ use App\Http\Controllers\Public\ProfilemhsController;
 use App\Http\Controllers\FormController;
 use App\Http\Controllers\FRAK04Controller;
 use App\Http\Controllers\FRAPL02Controller;
+use App\Http\Controllers\FRIA01Controller;
 use App\Http\Controllers\FRIA02Controller;
 use App\Http\Controllers\FRIA05AController;
 use App\Http\Controllers\FRIA05CController;
@@ -105,6 +106,7 @@ Route::get('/search-mahasiswa', [MahasiswaController::class, 'searchMahasiswa'])
     ->name('search-mahasiswa');
 
 Route::resource('frmapa01', FRMAPA01Controller::class)->middleware(['auth', 'is_adminmahasiswa']);
+Route::resource('fria01', FRIA01Controller::class)->middleware(['auth', 'is_admin']);
 Route::resource('fria02', FRIA02Controller::class)->middleware(['auth', 'is_admin']);
 Route::resource('frak04', FRAK04Controller::class)->middleware(['auth', 'is_admin']);
 Route::resource('frapl02', FRAPL02Controller::class)->middleware(['auth', 'is_admin']);

@@ -427,6 +427,12 @@ return [
                     'classes' => 'submenu-item',
                 ],
                 [
+                    'text' => 'FR.IA.01.CL - CEKLIS OBSERVASI AKTIVITAS DI TEMPAT KERJA ATAU TEMPAT KERJASIMULASI',
+                    'icon' => 'fas fa-fw fa-book-open',
+                    'url' => '/fria01',
+                    'classes' => 'submenu-item',
+                ],
+                [
                     'text' => 'FR.IA.02.TUGAS PRAKTIK DEMONSTRASI',
                     'icon' => 'fas fa-fw fa-book-open',
                     'url' => '/fria02',
