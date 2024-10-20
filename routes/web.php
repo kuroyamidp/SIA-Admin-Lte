@@ -34,6 +34,7 @@ use App\Http\Controllers\FRIA05AController;
 use App\Http\Controllers\FRIA05CController;
 use App\Http\Controllers\FRIA06BController;
 use App\Http\Controllers\FRIA06Controller;
+use App\Http\Controllers\FRIA11Controller;
 use App\Http\Controllers\FRMAPA01Controller;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
@@ -108,6 +109,7 @@ Route::get('/search-mahasiswa', [MahasiswaController::class, 'searchMahasiswa'])
 Route::resource('frmapa01', FRMAPA01Controller::class)->middleware(['auth', 'is_adminmahasiswa']);
 Route::resource('fria01', FRIA01Controller::class)->middleware(['auth', 'is_admin']);
 Route::resource('fria02', FRIA02Controller::class)->middleware(['auth', 'is_admin']);
+Route::resource('fria11', FRIA11Controller::class)->middleware(['auth', 'is_admin']);
 Route::resource('frak04', FRAK04Controller::class)->middleware(['auth', 'is_admin']);
 Route::resource('frapl02', FRAPL02Controller::class)->middleware(['auth', 'is_admin']);
 Route::resource('fria06', FRIA06Controller::class)->middleware(['auth', 'is_admin']);

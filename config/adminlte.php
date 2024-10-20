@@ -468,6 +468,12 @@ return [
                     'url' => '/fria05c',
                     'classes' => 'submenu-item',
                 ],
+                [
+                    'text' => 'FR.IA.11.CEKLIS MENINJAU INSTRUMEN ASESSMEN',
+                    'icon' => 'fas fa-fw fa-book-open',
+                    'url' => '/fria11',
+                    'classes' => 'submenu-item',
+                ],
 
             ],
         ],
