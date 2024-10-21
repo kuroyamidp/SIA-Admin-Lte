@@ -12,7 +12,7 @@ class FRIA06AController extends Controller
      */
     public function index()
     {
-        //
+        return view('pages.tabel.FRIA06A');
     }
 
     /**

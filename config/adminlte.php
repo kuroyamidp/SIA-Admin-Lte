@@ -451,6 +451,12 @@ return [
                     'classes' => 'submenu-item',
                 ],
                 [
+                    'text' => 'FR.IA.06A. DPT – DAFTAR PERTANYAAN TERTULIS ESAI',
+                    'icon' => 'fas fa-fw fa-book-open',
+                    'url' => '/fria06a',
+                    'classes' => 'submenu-item',
+                ],
+                [
                     'text' => 'FR.IA.06.B LEMBAR KUNCI JAWABAN PERTANYAAN TERTULIS ESAI',
                     'icon' => 'fas fa-fw fa-book-open',
                     'url' => '/fria06b',
