@@ -457,6 +457,12 @@ return [
                     'classes' => 'submenu-item',
                 ],
                 [
+                    'text' => 'FR.IA.06.C.LEMBAR JAWABAN PERTANYAAN TERTULIS ESAI',
+                    'icon' => 'fas fa-fw fa-book-open',
+                    'url' => '/fria06c',
+                    'classes' => 'submenu-item',
+                ],
+                [
                     'text' => 'FR.IA.05A. DPT - PERTANYAAN TERTULIS PILIHAN GANDA',
                     'icon' => 'fas fa-fw fa-book-open',
                     'url' => '/fria05a',

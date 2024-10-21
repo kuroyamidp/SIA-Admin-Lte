@@ -150,15 +150,17 @@
                         </table>
                         <br><br>
                         <table border="1" width="100%" cellpadding="10" class="table-border">
-                            <tr>
-                                <td rowspan="2">Unit Kompetensi</td>
-                                <td>Kode Unit</td>
-                                <td>Judul Unit</td>
-                            </tr>
-                            <tr>
-                                <td>TAN.HOO1.001.01</td>
-                                <td>Melaksanakan prosedur K3 pada Budidaya Tanaman Anggrek</td>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi
+                                    <td>Kode Unit :</td>
+                                    </th>
+                                    <td>TAN.HOO1.001.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td> Melaksanakan prosedur K3 pada Budidaya Tanaman Anggrek</td>
+                                </tr>
                         </table>
                         <table border="1" width="100%" cellpadding="10">
                             <thead>
@@ -254,16 +256,19 @@
                         </table>
                         <br><br>
                         <table border="1" width="100%" cellpadding="10" class="table-border">
-                            <tr>
-                                <td rowspan="2">Unit Kompetensi</td>
-                                <td>Kode Unit</td>
-                                <td>Judul Unit</td>
-                            </tr>
-                            <tr>
-                                <td>TAN.HO01.002.01</td>
-                                <td>Melakukan kerjasama dengan Teman Kerja pada Budidaya Tanaman Anggrek</td>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO01.002.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Melakukan kerjasama dengan Teman Kerja pada Budidaya Tanaman Anggrek</td>
+                                </tr>
+                            </thead>
                         </table>
+
                         <table border="1" width="100%" cellpadding="10">
                             <thead>
                                 <tr>
@@ -359,16 +364,19 @@
                         <br>
                         <br>
                         <table border="1" width="100%" cellpadding="10" class="table-border">
-                            <tr>
-                                <td rowspan="2">Unit Kompetensi</td>
-                                <td>Kode Unit</td>
-                                <td>Judul Unit</td>
-                            </tr>
-                            <tr>
-                                <td>TAN.HO01.003.01</td>
-                                <td>Mengoperasikan Peralatan Manual pada Budidaya Tanaman Anggrek</td>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO01.003.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Mengoperasikan Peralatan Manual pada Budidaya Tanaman Anggrek</td>
+                                </tr>
+                            </thead>
                         </table>
+
                         <table border="1" width="100%" cellpadding="10">
                             <thead>
                                 <tr>
@@ -464,16 +472,19 @@
                         <br>
                         <br>
                         <table border="1" width="100%" cellpadding="10" class="table-border">
-                            <tr>
-                                <td rowspan="2">Unit Kompetensi</td>
-                                <td>Kode Unit</td>
-                                <td>Judul Unit</td>
-                            </tr>
-                            <tr>
-                                <td>TAN.HO02.001.01</td>
-                                <td>Mempersiapkan Media Tanam Terpilih pada Budidaya Tanaman Anggrek</td>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.001.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Mempersiapkan Media Tanam Terpilih pada Budidaya Tanaman Anggrek</td>
+                                </tr>
+                            </thead>
                         </table>
+
                         <table border="1" width="100%" cellpadding="10">
                             <thead>
                                 <tr>
@@ -568,16 +579,19 @@
                         </table>
                         <br><br>
                         <table border="1" width="100%" cellpadding="10" class="table-border">
-                            <tr>
-                                <td rowspan="2">Unit Kompetensi</td>
-                                <td>Kode Unit</td>
-                                <td>Judul Unit</td>
-                            </tr>
-                            <tr>
-                                <td>TAN.HO02.002.01</td>
-                                <td>Memberikan Perlakuan untuk Media Khusus pada Budidaya Tanaman Anggrek</td>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.002.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Memberikan Perlakuan untuk Media Khusus pada Budidaya Tanaman Anggrek</td>
+                                </tr>
+                            </thead>
                         </table>
+
                         <table border="1" width="100%" cellpadding="10">
                             <thead>
                                 <tr>
@@ -672,16 +686,19 @@
                         </table>
                         <br><br>
                         <table border="1" width="100%" cellpadding="10" class="table-border">
-                            <tr>
-                                <td rowspan="2">Unit Kompetensi</td>
-                                <td>Kode Unit</td>
-                                <td>Judul Unit</td>
-                            </tr>
-                            <tr>
-                                <td>TAN.HO02.003.01</td>
-                                <td>Mempersiapkan peralatan untuk menanam tanaman anggrek</td>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.003.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Mempersiapkan peralatan untuk menanam tanaman anggrek</td>
+                                </tr>
+                            </thead>
                         </table>
+
                         <table border="1" width="100%" cellpadding="10">
                             <thead>
                                 <tr>
@@ -776,16 +793,19 @@
                         </table>
                         <br><br>
                         <table border="1" width="100%" cellpadding="10" class="table-border">
-                            <tr>
-                                <td rowspan="2">Unit Kompetensi</td>
-                                <td>Kode Unit</td>
-                                <td>Judul Unit</td>
-                            </tr>
-                            <tr>
-                                <td>TAN.HO02.004.01</td>
-                                <td>Menangani Bibit dalam botol pada budidaya tanaman anggrek</td>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.004.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Menangani Bibit dalam botol pada budidaya tanaman anggrek</td>
+                                </tr>
+                            </thead>
                         </table>
+
                         <table border="1" width="100%" cellpadding="10">
                             <thead>
                                 <tr>
@@ -880,16 +900,19 @@
                         </table>
                         <br><br>
                         <table border="1" width="100%" cellpadding="10" class="table-border">
-                            <tr>
-                                <td rowspan="2">Unit Kompetensi</td>
-                                <td>Kode Unit</td>
-                                <td>Judul Unit</td>
-                            </tr>
-                            <tr>
-                                <td>TAN.HO02.005.01</td>
-                                <td>Menangani Bibit Pot Kelompok pada Budidaya Tanaman Anggrek</td>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.005.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Menangani Bibit Pot Kelompok pada Budidaya Tanaman Anggrek</td>
+                                </tr>
+                            </thead>
                         </table>
+
                         <table border="1" width="100%" cellpadding="10">
                             <thead>
                                 <tr>
@@ -984,16 +1007,19 @@
                         </table>
                         <br><br>
                         <table border="1" width="100%" cellpadding="10" class="table-border">
-                            <tr>
-                                <td rowspan="2">Unit Kompetensi</td>
-                                <td>Kode Unit</td>
-                                <td>Judul Unit</td>
-                            </tr>
-                            <tr>
-                                <td>TAN.HO02.006.01</td>
-                                <td>Menangani Bibit Individu Pot Tunggal Pada Budidaya Tanaman Anggrek</td>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.006.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Menangani Bibit Individu Pot Tunggal Pada Budidaya Tanaman Anggrek</td>
+                                </tr>
+                            </thead>
                         </table>
+
                         <table border="1" width="100%" cellpadding="10">
                             <thead>
                                 <tr>
@@ -1088,16 +1114,19 @@
                         </table>
                         <br><br>
                         <table border="1" width="100%" cellpadding="10" class="table-border">
-                            <tr>
-                                <td rowspan="2">Unit Kompetensi</td>
-                                <td>Kode Unit</td>
-                                <td>Judul Unit</td>
-                            </tr>
-                            <tr>
-                                <td>TAN.HO02.007.01</td>
-                                <td>Memasang Jaringan Irigasi pada Budidaya Tanaman Anggrek</td>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.007.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Memasang Jaringan Irigasi pada Budidaya Tanaman Anggrek</td>
+                                </tr>
+                            </thead>
                         </table>
+
                         <table border="1" width="100%" cellpadding="10">
                             <thead>
                                 <tr>
@@ -1192,16 +1221,19 @@
                         </table>
                         <br><br>
                         <table border="1" width="100%" cellpadding="10" class="table-border">
-                            <tr>
-                                <td rowspan="2">Unit Kompetensi</td>
-                                <td>Kode Unit</td>
-                                <td>Judul Unit</td>
-                            </tr>
-                            <tr>
-                                <td>TAN.HO02.007.01</td>
-                                <td>Memasang Jaringan Irigasi pada Budidaya Tanaman Anggrek</td>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.008.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Mengoperasikan Jaringan Irigasi pada Budidaya Tanaman Anggrek</td>
+                                </tr>
+                            </thead>
                         </table>
+
                         <table border="1" width="100%" cellpadding="10">
                             <thead>
                                 <tr>
@@ -1296,16 +1328,19 @@
                         </table>
                         <br><br>
                         <table border="1" width="100%" cellpadding="10" class="table-border">
-                            <tr>
-                                <td rowspan="2">Unit Kompetensi</td>
-                                <td>Kode Unit</td>
-                                <td>Judul Unit</td>
-                            </tr>
-                            <tr>
-                                <td>TAN.HO02.008.01</td>
-                                <td>Mengoperasikan Jaringan Irigasi pada Budidaya Tanaman Anggrek</td>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.009.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Memupuk Tanaman Anggrek Sesuai Jadwal</td>
+                                </tr>
+                            </thead>
                         </table>
+
                         <table border="1" width="100%" cellpadding="10">
                             <thead>
                                 <tr>
@@ -1401,16 +1436,19 @@
 
                         <br><br>
                         <table border="1" width="100%" cellpadding="10" class="table-border">
-                            <tr>
-                                <td rowspan="2">Unit Kompetensi</td>
-                                <td>Kode Unit</td>
-                                <td>Judul Unit</td>
-                            </tr>
-                            <tr>
-                                <td>TAN.HO02.009.01</td>
-                                <td>Memupuk Tanaman Anggrek Sesuai Jadwal</td>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.010.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Melaksanakan Penyiraman Sesuai Jadwal Yang Ditetapkan Pada Budidaya Tanaman Anggrek</td>
+                                </tr>
+                            </thead>
                         </table>
+
                         <table border="1" width="100%" cellpadding="10">
                             <thead>
                                 <tr>
@@ -1609,16 +1647,19 @@
                         </table>
                         <br><br>
                         <table border="1" width="100%" cellpadding="10" class="table-border">
-                            <tr>
-                                <td rowspan="2">Unit Kompetensi</td>
-                                <td>Kode Unit</td>
-                                <td>Judul Unit</td>
-                            </tr>
-                            <tr>
-                                <td>TAN.HO02.011.01</td>
-                                <td>Mengendalikan Hama Penyakit dengan Menggunakan Pestisida pada Budidaya Tanaman Anggrek</td>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.011.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Mengendalikan Hama Penyakit dengan Menggunakan Pestisida pada Budidaya Tanaman Anggrek</td>
+                                </tr>
+                            </thead>
                         </table>
+
                         <table border="1" width="100%" cellpadding="10">
                             <thead>
                                 <tr>
@@ -1711,689 +1752,793 @@
                                 </tr>
                             </tbody>
                         </table>
-                        <div class="unit-kompetensi">
-                            <h2>Unit Kompetensi</h2>
-                            <p>Kode Unit: TAN.HO02.012.01</p>
-                            <p>Judul Unit: Melakukan Pemberian Zat Pengatur Tubuh (ZPT) pada Budidaya Tanaman Anggrek</p>
-                            <h3>Kegiatan Asesmen</h3>
-                            <table border="1" width="100%" cellpadding="10">
-                                <thead>
-                                    <tr>
-                                        <th>Kegiatan Asesmen</th>
-                                        <th>Ya</th>
-                                        <th>Tidak</th>
-                                        <th>Komentar</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
-                                        <td><input type="checkbox" name="ya_tidak_1"></td>
-                                        <td><input type="checkbox" name="ya_tidak_1"></td>
-                                        <td><input type="text" name="komentar_1" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Informasi tertulis dituliskan secara tepat</td>
-                                        <td><input type="checkbox" name="ya_tidak_2"></td>
-                                        <td><input type="checkbox" name="ya_tidak_2"></td>
-                                        <td><input type="text" name="komentar_2" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
-                                        <td><input type="checkbox" name="ya_tidak_3"></td>
-                                        <td><input type="checkbox" name="ya_tidak_3"></td>
-                                        <td><input type="text" name="komentar_3" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
-                                        <td><input type="checkbox" name="ya_tidak_4"></td>
-                                        <td><input type="checkbox" name="ya_tidak_4"></td>
-                                        <td><input type="text" name="komentar_4" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
-                                        <td><input type="checkbox" name="ya_tidak_5"></td>
-                                        <td><input type="checkbox" name="ya_tidak_5"></td>
-                                        <td><input type="text" name="komentar_5" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
-                                        <td><input type="checkbox" name="ya_tidak_6"></td>
-                                        <td><input type="checkbox" name="ya_tidak_6"></td>
-                                        <td><input type="text" name="komentar_6" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
-                                        <td><input type="checkbox" name="ya_tidak_7"></td>
-                                        <td><input type="checkbox" name="ya_tidak_7"></td>
-                                        <td><input type="text" name="komentar_7" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tugas asesmen siap digunakan:</td>
-                                        <td><input type="checkbox" name="ya_tidak_8"></td>
-                                        <td><input type="checkbox" name="ya_tidak_8"></td>
-                                        <td><input type="text" name="komentar_8" style="width: 100%;"></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
+                        <br><br>
 
-                        <div class="unit-kompetensi">
-                            <h2>Unit Kompetensi</h2>
-                            <p>Kode Unit: TAN.HO02.013.01</p>
-                            <p>Judul Unit: Mengendalikan Gulma pada Budidaya Tanaman Anggrek sesuai Kondisi Lapangan</p>
-                            <h3>Kegiatan Asesmen</h3>
-                            <table border="1" width="100%" cellpadding="10">
-                                <thead>
-                                    <tr>
-                                        <th>Kegiatan Asesmen</th>
-                                        <th>Ya</th>
-                                        <th>Tidak</th>
-                                        <th>Komentar</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
-                                        <td><input type="checkbox" name="ya_tidak_9"></td>
-                                        <td><input type="checkbox" name="ya_tidak_9"></td>
-                                        <td><input type="text" name="komentar_9" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Informasi tertulis dituliskan secara tepat</td>
-                                        <td><input type="checkbox" name="ya_tidak_10"></td>
-                                        <td><input type="checkbox" name="ya_tidak_10"></td>
-                                        <td><input type="text" name="komentar_10" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
-                                        <td><input type="checkbox" name="ya_tidak_11"></td>
-                                        <td><input type="checkbox" name="ya_tidak_11"></td>
-                                        <td><input type="text" name="komentar_11" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
-                                        <td><input type="checkbox" name="ya_tidak_12"></td>
-                                        <td><input type="checkbox" name="ya_tidak_12"></td>
-                                        <td><input type="text" name="komentar_12" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
-                                        <td><input type="checkbox" name="ya_tidak_13"></td>
-                                        <td><input type="checkbox" name="ya_tidak_13"></td>
-                                        <td><input type="text" name="komentar_13" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
-                                        <td><input type="checkbox" name="ya_tidak_14"></td>
-                                        <td><input type="checkbox" name="ya_tidak_14"></td>
-                                        <td><input type="text" name="komentar_14" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
-                                        <td><input type="checkbox" name="ya_tidak_15"></td>
-                                        <td><input type="checkbox" name="ya_tidak_15"></td>
-                                        <td><input type="text" name="komentar_15" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tugas asesmen siap digunakan:</td>
-                                        <td><input type="checkbox" name="ya_tidak_16"></td>
-                                        <td><input type="checkbox" name="ya_tidak_16"></td>
-                                        <td><input type="text" name="komentar_16" style="width: 100%;"></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.012.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Melakukan Pemberian Zat Pengatur Tubuh (ZPT) pada Budidaya Tanaman Anggrek</td>
+                                </tr>
+                            </thead>
+                        </table>
 
-                        <div class="unit-kompetensi">
-                            <h2>Unit Kompetensi</h2>
-                            <p>Kode Unit: TAN.HO02.014.01</p>
-                            <p>Judul Unit: Melaksanakan Repotting pada Budidaya Tanaman Anggrek</p>
-                            <h3>Kegiatan Asesmen</h3>
-                            <table border="1" width="100%" cellpadding="10">
-                                <thead>
-                                    <tr>
-                                        <th>Kegiatan Asesmen</th>
-                                        <th>Ya</th>
-                                        <th>Tidak</th>
-                                        <th>Komentar</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
-                                        <td><input type="checkbox" name="ya_tidak_17"></td>
-                                        <td><input type="checkbox" name="ya_tidak_17"></td>
-                                        <td><input type="text" name="komentar_17" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Informasi tertulis dituliskan secara tepat</td>
-                                        <td><input type="checkbox" name="ya_tidak_18"></td>
-                                        <td><input type="checkbox" name="ya_tidak_18"></td>
-                                        <td><input type="text" name="komentar_18" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
-                                        <td><input type="checkbox" name="ya_tidak_19"></td>
-                                        <td><input type="checkbox" name="ya_tidak_19"></td>
-                                        <td><input type="text" name="komentar_19" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
-                                        <td><input type="checkbox" name="ya_tidak_20"></td>
-                                        <td><input type="checkbox" name="ya_tidak_20"></td>
-                                        <td><input type="text" name="komentar_20" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
-                                        <td><input type="checkbox" name="ya_tidak_21"></td>
-                                        <td><input type="checkbox" name="ya_tidak_21"></td>
-                                        <td><input type="text" name="komentar_21" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
-                                        <td><input type="checkbox" name="ya_tidak_22"></td>
-                                        <td><input type="checkbox" name="ya_tidak_22"></td>
-                                        <td><input type="text" name="komentar_22" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
-                                        <td><input type="checkbox" name="ya_tidak_23"></td>
-                                        <td><input type="checkbox" name="ya_tidak_23"></td>
-                                        <td><input type="text" name="komentar_23" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tugas asesmen siap digunakan:</td>
-                                        <td><input type="checkbox" name="ya_tidak_24"></td>
-                                        <td><input type="checkbox" name="ya_tidak_24"></td>
-                                        <td><input type="text" name="komentar_24" style="width: 100%;"></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
 
-                        <div class="unit-kompetensi">
-                            <h2>Unit Kompetensi</h2>
-                            <p>Kode Unit: TAN.HO02.015.01</p>
-                            <p>Judul Unit: Memasang Penyangga pada Tanaman/ Tangkai Anggrek</p>
-                            <h3>Kegiatan Asesmen</h3>
-                            <table border="1" width="100%" cellpadding="10">
-                                <thead>
-                                    <tr>
-                                        <th>Kegiatan Asesmen</th>
-                                        <th>Ya</th>
-                                        <th>Tidak</th>
-                                        <th>Komentar</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
-                                        <td><input type="checkbox" name="ya_tidak_25"></td>
-                                        <td><input type="checkbox" name="ya_tidak_25"></td>
-                                        <td><input type="text" name="komentar_25" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Informasi tertulis dituliskan secara tepat</td>
-                                        <td><input type="checkbox" name="ya_tidak_26"></td>
-                                        <td><input type="checkbox" name="ya_tidak_26"></td>
-                                        <td><input type="text" name="komentar_26" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
-                                        <td><input type="checkbox" name="ya_tidak_27"></td>
-                                        <td><input type="checkbox" name="ya_tidak_27"></td>
-                                        <td><input type="text" name="komentar_27" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
-                                        <td><input type="checkbox" name="ya_tidak_28"></td>
-                                        <td><input type="checkbox" name="ya_tidak_28"></td>
-                                        <td><input type="text" name="komentar_28" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
-                                        <td><input type="checkbox" name="ya_tidak_29"></td>
-                                        <td><input type="checkbox" name="ya_tidak_29"></td>
-                                        <td><input type="text" name="komentar_29" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
-                                        <td><input type="checkbox" name="ya_tidak_30"></td>
-                                        <td><input type="checkbox" name="ya_tidak_30"></td>
-                                        <td><input type="text" name="komentar_30" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
-                                        <td><input type="checkbox" name="ya_tidak_31"></td>
-                                        <td><input type="checkbox" name="ya_tidak_31"></td>
-                                        <td><input type="text" name="komentar_31" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tugas asesmen siap digunakan:</td>
-                                        <td><input type="checkbox" name="ya_tidak_32"></td>
-                                        <td><input type="checkbox" name="ya_tidak_32"></td>
-                                        <td><input type="text" name="komentar_32" style="width: 100%;"></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                        <div class="unit-kompetensi">
-                            <h2>Unit Kompetensi</h2>
-                            <p><strong>Kode Unit:</strong> TAN.HO02.016.01</p>
-                            <p><strong>Judul Unit:</strong> Memanen Tanaman Anggrek Potong</p>
-                            <h3>Kegiatan Asesmen</h3>
-                            <table border="1" width="100%" cellpadding="10">
-                                <thead>
-                                    <tr>
-                                        <th>Kegiatan Asesmen</th>
-                                        <th>Ya</th>
-                                        <th>Tidak</th>
-                                        <th>Komentar</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
-                                        <td><input type="checkbox" name="ya_tidak_1"></td>
-                                        <td><input type="checkbox" name="ya_tidak_1"></td>
-                                        <td><input type="text" name="komentar_1" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Informasi tertulis dituliskan secara tepat</td>
-                                        <td><input type="checkbox" name="ya_tidak_2"></td>
-                                        <td><input type="checkbox" name="ya_tidak_2"></td>
-                                        <td><input type="text" name="komentar_2" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
-                                        <td><input type="checkbox" name="ya_tidak_3"></td>
-                                        <td><input type="checkbox" name="ya_tidak_3"></td>
-                                        <td><input type="text" name="komentar_3" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
-                                        <td><input type="checkbox" name="ya_tidak_4"></td>
-                                        <td><input type="checkbox" name="ya_tidak_4"></td>
-                                        <td><input type="text" name="komentar_4" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
-                                        <td><input type="checkbox" name="ya_tidak_5"></td>
-                                        <td><input type="checkbox" name="ya_tidak_5"></td>
-                                        <td><input type="text" name="komentar_5" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
-                                        <td><input type="checkbox" name="ya_tidak_6"></td>
-                                        <td><input type="checkbox" name="ya_tidak_6"></td>
-                                        <td><input type="text" name="komentar_6" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
-                                        <td><input type="checkbox" name="ya_tidak_7"></td>
-                                        <td><input type="checkbox" name="ya_tidak_7"></td>
-                                        <td><input type="text" name="komentar_7" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tugas asesmen siap digunakan:</td>
-                                        <td><input type="checkbox" name="ya_tidak_8"></td>
-                                        <td><input type="checkbox" name="ya_tidak_8"></td>
-                                        <td><input type="text" name="komentar_8" style="width: 100%;"></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
+                        <table border="1" width="100%" cellpadding="10">
+                            <thead>
+                                <tr>
+                                    <th>Kegiatan Asesmen</th>
+                                    <th>Ya</th>
+                                    <th>Tidak</th>
+                                    <th>Komentar</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
+                                    <td><input type="checkbox" name="ya_tidak_1"></td>
+                                    <td><input type="checkbox" name="ya_tidak_1"></td>
+                                    <td><input type="text" name="komentar_1" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Informasi tertulis dituliskan secara tepat</td>
+                                    <td><input type="checkbox" name="ya_tidak_2"></td>
+                                    <td><input type="checkbox" name="ya_tidak_2"></td>
+                                    <td><input type="text" name="komentar_2" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
+                                    <td><input type="checkbox" name="ya_tidak_3"></td>
+                                    <td><input type="checkbox" name="ya_tidak_3"></td>
+                                    <td><input type="text" name="komentar_3" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
+                                    <td><input type="checkbox" name="ya_tidak_4"></td>
+                                    <td><input type="checkbox" name="ya_tidak_4"></td>
+                                    <td><input type="text" name="komentar_4" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
+                                    <td><input type="checkbox" name="ya_tidak_5"></td>
+                                    <td><input type="checkbox" name="ya_tidak_5"></td>
+                                    <td><input type="text" name="komentar_5" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
+                                    <td><input type="checkbox" name="ya_tidak_6"></td>
+                                    <td><input type="checkbox" name="ya_tidak_6"></td>
+                                    <td><input type="text" name="komentar_6" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
+                                    <td><input type="checkbox" name="ya_tidak_7"></td>
+                                    <td><input type="checkbox" name="ya_tidak_7"></td>
+                                    <td><input type="text" name="komentar_7" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tugas asesmen siap digunakan:</td>
+                                    <td><input type="checkbox" name="ya_tidak_8"></td>
+                                    <td><input type="checkbox" name="ya_tidak_8"></td>
+                                    <td><input type="text" name="komentar_8" style="width: 100%;"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br><br>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.013.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Mengendalikan Gulma pada Budidaya Tanaman Anggrek sesuai Kondisi Lapangan</td>
+                                </tr>
+                            </thead>
+                        </table>
 
-                        <div class="unit-kompetensi">
-                            <h2>Unit Kompetensi</h2>
-                            <p><strong>Kode Unit:</strong> TAN.HO02.017.01</p>
-                            <p><strong>Judul Unit:</strong> Memanen Tanaman Anggrek Pot</p>
-                            <h3>Kegiatan Asesmen</h3>
-                            <table border="1" width="100%" cellpadding="10">
-                                <thead>
-                                    <tr>
-                                        <th>Kegiatan Asesmen</th>
-                                        <th>Ya</th>
-                                        <th>Tidak</th>
-                                        <th>Komentar</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
-                                        <td><input type="checkbox" name="ya_tidak_9"></td>
-                                        <td><input type="checkbox" name="ya_tidak_9"></td>
-                                        <td><input type="text" name="komentar_9" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Informasi tertulis dituliskan secara tepat</td>
-                                        <td><input type="checkbox" name="ya_tidak_10"></td>
-                                        <td><input type="checkbox" name="ya_tidak_10"></td>
-                                        <td><input type="text" name="komentar_10" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
-                                        <td><input type="checkbox" name="ya_tidak_11"></td>
-                                        <td><input type="checkbox" name="ya_tidak_11"></td>
-                                        <td><input type="text" name="komentar_11" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
-                                        <td><input type="checkbox" name="ya_tidak_12"></td>
-                                        <td><input type="checkbox" name="ya_tidak_12"></td>
-                                        <td><input type="text" name="komentar_12" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
-                                        <td><input type="checkbox" name="ya_tidak_13"></td>
-                                        <td><input type="checkbox" name="ya_tidak_13"></td>
-                                        <td><input type="text" name="komentar_13" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
-                                        <td><input type="checkbox" name="ya_tidak_14"></td>
-                                        <td><input type="checkbox" name="ya_tidak_14"></td>
-                                        <td><input type="text" name="komentar_14" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
-                                        <td><input type="checkbox" name="ya_tidak_15"></td>
-                                        <td><input type="checkbox" name="ya_tidak_15"></td>
-                                        <td><input type="text" name="komentar_15" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tugas asesmen siap digunakan:</td>
-                                        <td><input type="checkbox" name="ya_tidak_16"></td>
-                                        <td><input type="checkbox" name="ya_tidak_16"></td>
-                                        <td><input type="text" name="komentar_16" style="width: 100%;"></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
 
-                        <div class="unit-kompetensi">
-                            <h2>Unit Kompetensi</h2>
-                            <p><strong>Kode Unit:</strong> TAN.HO02.018.01</p>
-                            <p><strong>Judul Unit:</strong> Melakukan Sortasi dan Grading Tanaman Anggrek Potong dan Pot</p>
-                            <h3>Kegiatan Asesmen</h3>
-                            <table border="1" width="100%" cellpadding="10">
-                                <thead>
-                                    <tr>
-                                        <th>Kegiatan Asesmen</th>
-                                        <th>Ya</th>
-                                        <th>Tidak</th>
-                                        <th>Komentar</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
-                                        <td><input type="checkbox" name="ya_tidak_17"></td>
-                                        <td><input type="checkbox" name="ya_tidak_17"></td>
-                                        <td><input type="text" name="komentar_17" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Informasi tertulis dituliskan secara tepat</td>
-                                        <td><input type="checkbox" name="ya_tidak_18"></td>
-                                        <td><input type="checkbox" name="ya_tidak_18"></td>
-                                        <td><input type="text" name="komentar_18" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
-                                        <td><input type="checkbox" name="ya_tidak_19"></td>
-                                        <td><input type="checkbox" name="ya_tidak_19"></td>
-                                        <td><input type="text" name="komentar_19" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
-                                        <td><input type="checkbox" name="ya_tidak_20"></td>
-                                        <td><input type="checkbox" name="ya_tidak_20"></td>
-                                        <td><input type="text" name="komentar_20" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
-                                        <td><input type="checkbox" name="ya_tidak_21"></td>
-                                        <td><input type="checkbox" name="ya_tidak_21"></td>
-                                        <td><input type="text" name="komentar_21" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
-                                        <td><input type="checkbox" name="ya_tidak_22"></td>
-                                        <td><input type="checkbox" name="ya_tidak_22"></td>
-                                        <td><input type="text" name="komentar_22" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
-                                        <td><input type="checkbox" name="ya_tidak_23"></td>
-                                        <td><input type="checkbox" name="ya_tidak_23"></td>
-                                        <td><input type="text" name="komentar_23" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tugas asesmen siap digunakan:</td>
-                                        <td><input type="checkbox" name="ya_tidak_24"></td>
-                                        <td><input type="checkbox" name="ya_tidak_24"></td>
-                                        <td><input type="text" name="komentar_24" style="width: 100%;"></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th>Kegiatan Asesmen</th>
+                                    <th>Ya</th>
+                                    <th>Tidak</th>
+                                    <th>Komentar</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
+                                    <td><input type="checkbox" name="ya_tidak_9"></td>
+                                    <td><input type="checkbox" name="ya_tidak_9"></td>
+                                    <td><input type="text" name="komentar_9" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Informasi tertulis dituliskan secara tepat</td>
+                                    <td><input type="checkbox" name="ya_tidak_10"></td>
+                                    <td><input type="checkbox" name="ya_tidak_10"></td>
+                                    <td><input type="text" name="komentar_10" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
+                                    <td><input type="checkbox" name="ya_tidak_11"></td>
+                                    <td><input type="checkbox" name="ya_tidak_11"></td>
+                                    <td><input type="text" name="komentar_11" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
+                                    <td><input type="checkbox" name="ya_tidak_12"></td>
+                                    <td><input type="checkbox" name="ya_tidak_12"></td>
+                                    <td><input type="text" name="komentar_12" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
+                                    <td><input type="checkbox" name="ya_tidak_13"></td>
+                                    <td><input type="checkbox" name="ya_tidak_13"></td>
+                                    <td><input type="text" name="komentar_13" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
+                                    <td><input type="checkbox" name="ya_tidak_14"></td>
+                                    <td><input type="checkbox" name="ya_tidak_14"></td>
+                                    <td><input type="text" name="komentar_14" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
+                                    <td><input type="checkbox" name="ya_tidak_15"></td>
+                                    <td><input type="checkbox" name="ya_tidak_15"></td>
+                                    <td><input type="text" name="komentar_15" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tugas asesmen siap digunakan:</td>
+                                    <td><input type="checkbox" name="ya_tidak_16"></td>
+                                    <td><input type="checkbox" name="ya_tidak_16"></td>
+                                    <td><input type="text" name="komentar_16" style="width: 100%;"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br><br>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.014.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Melaksanakan Repotting pada Budidaya Tanaman Anggrek</td>
+                                </tr>
+                            </thead>
+                        </table>
 
-                        <div class="unit-kompetensi">
-                            <h2>Unit Kompetensi</h2>
-                            <p><strong>Kode Unit:</strong> TAN.HO02.019.01</p>
-                            <p><strong>Judul Unit:</strong> Melakukan Pengemasan Tanaman Anggrek</p>
-                            <h3>Kegiatan Asesmen</h3>
-                            <table border="1" width="100%" cellpadding="10">
-                                <thead>
-                                    <tr>
-                                        <th>Kegiatan Asesmen</th>
-                                        <th>Ya</th>
-                                        <th>Tidak</th>
-                                        <th>Komentar</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
-                                        <td><input type="checkbox" name="ya_tidak_25"></td>
-                                        <td><input type="checkbox" name="ya_tidak_25"></td>
-                                        <td><input type="text" name="komentar_25" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Informasi tertulis dituliskan secara tepat</td>
-                                        <td><input type="checkbox" name="ya_tidak_26"></td>
-                                        <td><input type="checkbox" name="ya_tidak_26"></td>
-                                        <td><input type="text" name="komentar_26" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
-                                        <td><input type="checkbox" name="ya_tidak_27"></td>
-                                        <td><input type="checkbox" name="ya_tidak_27"></td>
-                                        <td><input type="text" name="komentar_27" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
-                                        <td><input type="checkbox" name="ya_tidak_28"></td>
-                                        <td><input type="checkbox" name="ya_tidak_28"></td>
-                                        <td><input type="text" name="komentar_28" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
-                                        <td><input type="checkbox" name="ya_tidak_29"></td>
-                                        <td><input type="checkbox" name="ya_tidak_29"></td>
-                                        <td><input type="text" name="komentar_29" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
-                                        <td><input type="checkbox" name="ya_tidak_30"></td>
-                                        <td><input type="checkbox" name="ya_tidak_30"></td>
-                                        <td><input type="text" name="komentar_30" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
-                                        <td><input type="checkbox" name="ya_tidak_31"></td>
-                                        <td><input type="checkbox" name="ya_tidak_31"></td>
-                                        <td><input type="text" name="komentar_31" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tugas asesmen siap digunakan:</td>
-                                        <td><input type="checkbox" name="ya_tidak_32"></td>
-                                        <td><input type="checkbox" name="ya_tidak_32"></td>
-                                        <td><input type="text" name="komentar_32" style="width: 100%;"></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
 
-                        <div class="unit-kompetensi">
-                            <h2>Unit Kompetensi</h2>
-                            <p><strong>Kode Unit:</strong> TAN.HO02.020.01</p>
-                            <p><strong>Judul Unit:</strong> Melakukan Kegiatan Sanitasi Lingkungan Nurseri Tanaman Anggrek</p>
-                            <h3>Kegiatan Asesmen</h3>
-                            <table border="1" width="100%" cellpadding="10">
-                                <thead>
-                                    <tr>
-                                        <th>Kegiatan Asesmen</th>
-                                        <th>Ya</th>
-                                        <th>Tidak</th>
-                                        <th>Komentar</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
-                                        <td><input type="checkbox" name="ya_tidak_33"></td>
-                                        <td><input type="checkbox" name="ya_tidak_33"></td>
-                                        <td><input type="text" name="komentar_33" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Informasi tertulis dituliskan secara tepat</td>
-                                        <td><input type="checkbox" name="ya_tidak_34"></td>
-                                        <td><input type="checkbox" name="ya_tidak_34"></td>
-                                        <td><input type="text" name="komentar_34" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
-                                        <td><input type="checkbox" name="ya_tidak_35"></td>
-                                        <td><input type="checkbox" name="ya_tidak_35"></td>
-                                        <td><input type="text" name="komentar_35" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
-                                        <td><input type="checkbox" name="ya_tidak_36"></td>
-                                        <td><input type="checkbox" name="ya_tidak_36"></td>
-                                        <td><input type="text" name="komentar_36" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
-                                        <td><input type="checkbox" name="ya_tidak_37"></td>
-                                        <td><input type="checkbox" name="ya_tidak_37"></td>
-                                        <td><input type="text" name="komentar_37" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
-                                        <td><input type="checkbox" name="ya_tidak_38"></td>
-                                        <td><input type="checkbox" name="ya_tidak_38"></td>
-                                        <td><input type="text" name="komentar_38" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
-                                        <td><input type="checkbox" name="ya_tidak_39"></td>
-                                        <td><input type="checkbox" name="ya_tidak_39"></td>
-                                        <td><input type="text" name="komentar_39" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tugas asesmen siap digunakan:</td>
-                                        <td><input type="checkbox" name="ya_tidak_40"></td>
-                                        <td><input type="checkbox" name="ya_tidak_40"></td>
-                                        <td><input type="text" name="komentar_40" style="width: 100%;"></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                        <div class="unit-kompetensi">
-                            <h2>Unit Kompetensi</h2>
-                            <p><strong>Kode Unit:</strong> TAN.HO02.020.01</p>
-                            <p><strong>Judul Unit:</strong> Melakukan Kegiatan Sanitasi Lingkungan Nurseri Tanaman Anggrek</p>
-                            <h3>Kegiatan Asesmen</h3>
-                            <table border="1" width="100%" cellpadding="10">
-                                <thead>
-                                    <tr>
-                                        <th>Kegiatan Asesmen</th>
-                                        <th>Ya</th>
-                                        <th>Tidak</th>
-                                        <th>Komentar</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
-                                        <td><input type="checkbox" name="ya_tidak_1"></td>
-                                        <td><input type="checkbox" name="ya_tidak_1"></td>
-                                        <td><input type="text" name="komentar_1" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Informasi tertulis dituliskan secara tepat</td>
-                                        <td><input type="checkbox" name="ya_tidak_2"></td>
-                                        <td><input type="checkbox" name="ya_tidak_2"></td>
-                                        <td><input type="text" name="komentar_2" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
-                                        <td><input type="checkbox" name="ya_tidak_3"></td>
-                                        <td><input type="checkbox" name="ya_tidak_3"></td>
-                                        <td><input type="text" name="komentar_3" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
-                                        <td><input type="checkbox" name="ya_tidak_4"></td>
-                                        <td><input type="checkbox" name="ya_tidak_4"></td>
-                                        <td><input type="text" name="komentar_4" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
-                                        <td><input type="checkbox" name="ya_tidak_5"></td>
-                                        <td><input type="checkbox" name="ya_tidak_5"></td>
-                                        <td><input type="text" name="komentar_5" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
-                                        <td><input type="checkbox" name="ya_tidak_6"></td>
-                                        <td><input type="checkbox" name="ya_tidak_6"></td>
-                                        <td><input type="text" name="komentar_6" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
-                                        <td><input type="checkbox" name="ya_tidak_7"></td>
-                                        <td><input type="checkbox" name="ya_tidak_7"></td>
-                                        <td><input type="text" name="komentar_7" style="width: 100%;"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tugas asesmen siap digunakan:</td>
-                                        <td><input type="checkbox" name="ya_tidak_8"></td>
-                                        <td><input type="checkbox" name="ya_tidak_8"></td>
-                                        <td><input type="text" name="komentar_8" style="width: 100%;"></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-<br>
-<br>
-<table border="1" width="100%" cellpadding="10">
-    <td>
-        Nama Petinjau
-        <textarea name="bukti1" class="no-border" style="width: 100%;"></textarea>
-    </td>
-    <td>
-        Nama Petinjau
-        <textarea name="bukti1" class="no-border" style="width: 100%;"></textarea>
-    </td>
-    <td>
-        Nama Petinjau
-        <textarea name="bukti1" class="no-border" style="width: 100%;"></textarea>
-    </td>
-</table>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th>Kegiatan Asesmen</th>
+                                    <th>Ya</th>
+                                    <th>Tidak</th>
+                                    <th>Komentar</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
+                                    <td><input type="checkbox" name="ya_tidak_17"></td>
+                                    <td><input type="checkbox" name="ya_tidak_17"></td>
+                                    <td><input type="text" name="komentar_17" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Informasi tertulis dituliskan secara tepat</td>
+                                    <td><input type="checkbox" name="ya_tidak_18"></td>
+                                    <td><input type="checkbox" name="ya_tidak_18"></td>
+                                    <td><input type="text" name="komentar_18" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
+                                    <td><input type="checkbox" name="ya_tidak_19"></td>
+                                    <td><input type="checkbox" name="ya_tidak_19"></td>
+                                    <td><input type="text" name="komentar_19" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
+                                    <td><input type="checkbox" name="ya_tidak_20"></td>
+                                    <td><input type="checkbox" name="ya_tidak_20"></td>
+                                    <td><input type="text" name="komentar_20" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
+                                    <td><input type="checkbox" name="ya_tidak_21"></td>
+                                    <td><input type="checkbox" name="ya_tidak_21"></td>
+                                    <td><input type="text" name="komentar_21" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
+                                    <td><input type="checkbox" name="ya_tidak_22"></td>
+                                    <td><input type="checkbox" name="ya_tidak_22"></td>
+                                    <td><input type="text" name="komentar_22" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
+                                    <td><input type="checkbox" name="ya_tidak_23"></td>
+                                    <td><input type="checkbox" name="ya_tidak_23"></td>
+                                    <td><input type="text" name="komentar_23" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tugas asesmen siap digunakan:</td>
+                                    <td><input type="checkbox" name="ya_tidak_24"></td>
+                                    <td><input type="checkbox" name="ya_tidak_24"></td>
+                                    <td><input type="text" name="komentar_24" style="width: 100%;"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br><br>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.015.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Memasang Penyangga pada Tanaman/ Tangkai Anggrek</td>
+                                </tr>
+                            </thead>
+                        </table>
+
+
+
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th>Kegiatan Asesmen</th>
+                                    <th>Ya</th>
+                                    <th>Tidak</th>
+                                    <th>Komentar</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
+                                    <td><input type="checkbox" name="ya_tidak_25"></td>
+                                    <td><input type="checkbox" name="ya_tidak_25"></td>
+                                    <td><input type="text" name="komentar_25" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Informasi tertulis dituliskan secara tepat</td>
+                                    <td><input type="checkbox" name="ya_tidak_26"></td>
+                                    <td><input type="checkbox" name="ya_tidak_26"></td>
+                                    <td><input type="text" name="komentar_26" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
+                                    <td><input type="checkbox" name="ya_tidak_27"></td>
+                                    <td><input type="checkbox" name="ya_tidak_27"></td>
+                                    <td><input type="text" name="komentar_27" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
+                                    <td><input type="checkbox" name="ya_tidak_28"></td>
+                                    <td><input type="checkbox" name="ya_tidak_28"></td>
+                                    <td><input type="text" name="komentar_28" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
+                                    <td><input type="checkbox" name="ya_tidak_29"></td>
+                                    <td><input type="checkbox" name="ya_tidak_29"></td>
+                                    <td><input type="text" name="komentar_29" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
+                                    <td><input type="checkbox" name="ya_tidak_30"></td>
+                                    <td><input type="checkbox" name="ya_tidak_30"></td>
+                                    <td><input type="text" name="komentar_30" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
+                                    <td><input type="checkbox" name="ya_tidak_31"></td>
+                                    <td><input type="checkbox" name="ya_tidak_31"></td>
+                                    <td><input type="text" name="komentar_31" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tugas asesmen siap digunakan:</td>
+                                    <td><input type="checkbox" name="ya_tidak_32"></td>
+                                    <td><input type="checkbox" name="ya_tidak_32"></td>
+                                    <td><input type="text" name="komentar_32" style="width: 100%;"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br><br>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.016.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Memanen Tanaman Anggrek Potong</td>
+                                </tr>
+                            </thead>
+                        </table>
+
+
+
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th>Kegiatan Asesmen</th>
+                                    <th>Ya</th>
+                                    <th>Tidak</th>
+                                    <th>Komentar</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
+                                    <td><input type="checkbox" name="ya_tidak_1"></td>
+                                    <td><input type="checkbox" name="ya_tidak_1"></td>
+                                    <td><input type="text" name="komentar_1" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Informasi tertulis dituliskan secara tepat</td>
+                                    <td><input type="checkbox" name="ya_tidak_2"></td>
+                                    <td><input type="checkbox" name="ya_tidak_2"></td>
+                                    <td><input type="text" name="komentar_2" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
+                                    <td><input type="checkbox" name="ya_tidak_3"></td>
+                                    <td><input type="checkbox" name="ya_tidak_3"></td>
+                                    <td><input type="text" name="komentar_3" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
+                                    <td><input type="checkbox" name="ya_tidak_4"></td>
+                                    <td><input type="checkbox" name="ya_tidak_4"></td>
+                                    <td><input type="text" name="komentar_4" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
+                                    <td><input type="checkbox" name="ya_tidak_5"></td>
+                                    <td><input type="checkbox" name="ya_tidak_5"></td>
+                                    <td><input type="text" name="komentar_5" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
+                                    <td><input type="checkbox" name="ya_tidak_6"></td>
+                                    <td><input type="checkbox" name="ya_tidak_6"></td>
+                                    <td><input type="text" name="komentar_6" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
+                                    <td><input type="checkbox" name="ya_tidak_7"></td>
+                                    <td><input type="checkbox" name="ya_tidak_7"></td>
+                                    <td><input type="text" name="komentar_7" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tugas asesmen siap digunakan:</td>
+                                    <td><input type="checkbox" name="ya_tidak_8"></td>
+                                    <td><input type="checkbox" name="ya_tidak_8"></td>
+                                    <td><input type="text" name="komentar_8" style="width: 100%;"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br><br>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.017.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Memanen Tanaman Anggrek Pot</td>
+                                </tr>
+                            </thead>
+                        </table>
+
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th>Kegiatan Asesmen</th>
+                                    <th>Ya</th>
+                                    <th>Tidak</th>
+                                    <th>Komentar</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
+                                    <td><input type="checkbox" name="ya_tidak_9"></td>
+                                    <td><input type="checkbox" name="ya_tidak_9"></td>
+                                    <td><input type="text" name="komentar_9" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Informasi tertulis dituliskan secara tepat</td>
+                                    <td><input type="checkbox" name="ya_tidak_10"></td>
+                                    <td><input type="checkbox" name="ya_tidak_10"></td>
+                                    <td><input type="text" name="komentar_10" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
+                                    <td><input type="checkbox" name="ya_tidak_11"></td>
+                                    <td><input type="checkbox" name="ya_tidak_11"></td>
+                                    <td><input type="text" name="komentar_11" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
+                                    <td><input type="checkbox" name="ya_tidak_12"></td>
+                                    <td><input type="checkbox" name="ya_tidak_12"></td>
+                                    <td><input type="text" name="komentar_12" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
+                                    <td><input type="checkbox" name="ya_tidak_13"></td>
+                                    <td><input type="checkbox" name="ya_tidak_13"></td>
+                                    <td><input type="text" name="komentar_13" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
+                                    <td><input type="checkbox" name="ya_tidak_14"></td>
+                                    <td><input type="checkbox" name="ya_tidak_14"></td>
+                                    <td><input type="text" name="komentar_14" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
+                                    <td><input type="checkbox" name="ya_tidak_15"></td>
+                                    <td><input type="checkbox" name="ya_tidak_15"></td>
+                                    <td><input type="text" name="komentar_15" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tugas asesmen siap digunakan:</td>
+                                    <td><input type="checkbox" name="ya_tidak_16"></td>
+                                    <td><input type="checkbox" name="ya_tidak_16"></td>
+                                    <td><input type="text" name="komentar_16" style="width: 100%;"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br><br>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.018.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Melakukan Sortasi dan Grading Tanaman Anggrek Potong dan Pot</td>
+                                </tr>
+                            </thead>
+                        </table>
+
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th>Kegiatan Asesmen</th>
+                                    <th>Ya</th>
+                                    <th>Tidak</th>
+                                    <th>Komentar</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
+                                    <td><input type="checkbox" name="ya_tidak_17"></td>
+                                    <td><input type="checkbox" name="ya_tidak_17"></td>
+                                    <td><input type="text" name="komentar_17" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Informasi tertulis dituliskan secara tepat</td>
+                                    <td><input type="checkbox" name="ya_tidak_18"></td>
+                                    <td><input type="checkbox" name="ya_tidak_18"></td>
+                                    <td><input type="text" name="komentar_18" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
+                                    <td><input type="checkbox" name="ya_tidak_19"></td>
+                                    <td><input type="checkbox" name="ya_tidak_19"></td>
+                                    <td><input type="text" name="komentar_19" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
+                                    <td><input type="checkbox" name="ya_tidak_20"></td>
+                                    <td><input type="checkbox" name="ya_tidak_20"></td>
+                                    <td><input type="text" name="komentar_20" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
+                                    <td><input type="checkbox" name="ya_tidak_21"></td>
+                                    <td><input type="checkbox" name="ya_tidak_21"></td>
+                                    <td><input type="text" name="komentar_21" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
+                                    <td><input type="checkbox" name="ya_tidak_22"></td>
+                                    <td><input type="checkbox" name="ya_tidak_22"></td>
+                                    <td><input type="text" name="komentar_22" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
+                                    <td><input type="checkbox" name="ya_tidak_23"></td>
+                                    <td><input type="checkbox" name="ya_tidak_23"></td>
+                                    <td><input type="text" name="komentar_23" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tugas asesmen siap digunakan:</td>
+                                    <td><input type="checkbox" name="ya_tidak_24"></td>
+                                    <td><input type="checkbox" name="ya_tidak_24"></td>
+                                    <td><input type="text" name="komentar_24" style="width: 100%;"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br><br>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.019.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Melakukan Pengemasan Tanaman Anggrek</td>
+                                </tr>
+                            </thead>
+                        </table>
+
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th>Kegiatan Asesmen</th>
+                                    <th>Ya</th>
+                                    <th>Tidak</th>
+                                    <th>Komentar</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
+                                    <td><input type="checkbox" name="ya_tidak_25"></td>
+                                    <td><input type="checkbox" name="ya_tidak_25"></td>
+                                    <td><input type="text" name="komentar_25" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Informasi tertulis dituliskan secara tepat</td>
+                                    <td><input type="checkbox" name="ya_tidak_26"></td>
+                                    <td><input type="checkbox" name="ya_tidak_26"></td>
+                                    <td><input type="text" name="komentar_26" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
+                                    <td><input type="checkbox" name="ya_tidak_27"></td>
+                                    <td><input type="checkbox" name="ya_tidak_27"></td>
+                                    <td><input type="text" name="komentar_27" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
+                                    <td><input type="checkbox" name="ya_tidak_28"></td>
+                                    <td><input type="checkbox" name="ya_tidak_28"></td>
+                                    <td><input type="text" name="komentar_28" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
+                                    <td><input type="checkbox" name="ya_tidak_29"></td>
+                                    <td><input type="checkbox" name="ya_tidak_29"></td>
+                                    <td><input type="text" name="komentar_29" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
+                                    <td><input type="checkbox" name="ya_tidak_30"></td>
+                                    <td><input type="checkbox" name="ya_tidak_30"></td>
+                                    <td><input type="text" name="komentar_30" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
+                                    <td><input type="checkbox" name="ya_tidak_31"></td>
+                                    <td><input type="checkbox" name="ya_tidak_31"></td>
+                                    <td><input type="text" name="komentar_31" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tugas asesmen siap digunakan:</td>
+                                    <td><input type="checkbox" name="ya_tidak_32"></td>
+                                    <td><input type="checkbox" name="ya_tidak_32"></td>
+                                    <td><input type="text" name="komentar_32" style="width: 100%;"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br><br>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO02.020.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Melakukan Kegiatan Sanitasi Lingkungan Nurseri Tanaman Anggrek</td>
+                                </tr>
+                            </thead>
+                        </table>
+
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th>Kegiatan Asesmen</th>
+                                    <th>Ya</th>
+                                    <th>Tidak</th>
+                                    <th>Komentar</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
+                                    <td><input type="checkbox" name="ya_tidak_33"></td>
+                                    <td><input type="checkbox" name="ya_tidak_33"></td>
+                                    <td><input type="text" name="komentar_33" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Informasi tertulis dituliskan secara tepat</td>
+                                    <td><input type="checkbox" name="ya_tidak_34"></td>
+                                    <td><input type="checkbox" name="ya_tidak_34"></td>
+                                    <td><input type="text" name="komentar_34" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
+                                    <td><input type="checkbox" name="ya_tidak_35"></td>
+                                    <td><input type="checkbox" name="ya_tidak_35"></td>
+                                    <td><input type="text" name="komentar_35" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
+                                    <td><input type="checkbox" name="ya_tidak_36"></td>
+                                    <td><input type="checkbox" name="ya_tidak_36"></td>
+                                    <td><input type="text" name="komentar_36" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
+                                    <td><input type="checkbox" name="ya_tidak_37"></td>
+                                    <td><input type="checkbox" name="ya_tidak_37"></td>
+                                    <td><input type="text" name="komentar_37" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
+                                    <td><input type="checkbox" name="ya_tidak_38"></td>
+                                    <td><input type="checkbox" name="ya_tidak_38"></td>
+                                    <td><input type="text" name="komentar_38" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
+                                    <td><input type="checkbox" name="ya_tidak_39"></td>
+                                    <td><input type="checkbox" name="ya_tidak_39"></td>
+                                    <td><input type="text" name="komentar_39" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tugas asesmen siap digunakan:</td>
+                                    <td><input type="checkbox" name="ya_tidak_40"></td>
+                                    <td><input type="checkbox" name="ya_tidak_40"></td>
+                                    <td><input type="text" name="komentar_40" style="width: 100%;"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br><br>
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th rowspan="2">Unit Kompetensi</th>
+                                    <td>Kode Unit :</td>
+                                    <td>TAN.HO03.001.01</td>
+                                </tr>
+                                <tr>
+                                    <td>Judul Unit :</td>
+                                    <td>Melakukan Pencacahan Media</td>
+                                </tr>
+                            </thead>
+                        </table>
+
+                        <table border="1" width="100%" cellpadding="10" class="table-border">
+                            <thead>
+                                <tr>
+                                    <th>Kegiatan Asesmen</th>
+                                    <th>Ya</th>
+                                    <th>Tidak</th>
+                                    <th>Komentar</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Instruksi perangkat asesmen dan kondisi asesmen diidentifikasi dengan jelas</td>
+                                    <td><input type="checkbox" name="ya_tidak_33"></td>
+                                    <td><input type="checkbox" name="ya_tidak_33"></td>
+                                    <td><input type="text" name="komentar_33" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Informasi tertulis dituliskan secara tepat</td>
+                                    <td><input type="checkbox" name="ya_tidak_34"></td>
+                                    <td><input type="checkbox" name="ya_tidak_34"></td>
+                                    <td><input type="text" name="komentar_34" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Kegiatan asesmen membahas persyaratan bukti untuk kompetensi atau kompetensi yang diases</td>
+                                    <td><input type="checkbox" name="ya_tidak_35"></td>
+                                    <td><input type="checkbox" name="ya_tidak_35"></td>
+                                    <td><input type="text" name="komentar_35" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan bahasa, literasi, dan berhitung sesuai dengan tingkat unit kompetensi yang dinilai.</td>
+                                    <td><input type="checkbox" name="ya_tidak_36"></td>
+                                    <td><input type="checkbox" name="ya_tidak_36"></td>
+                                    <td><input type="text" name="komentar_36" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tingkat kesulitan kegiatan sesuai dengan kompetensi atau kompetensi yang diases.</td>
+                                    <td><input type="checkbox" name="ya_tidak_37"></td>
+                                    <td><input type="checkbox" name="ya_tidak_37"></td>
+                                    <td><input type="text" name="komentar_37" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Contoh, benchmark dan/atau ceklis asesmen tersedia untuk digunakan dalam pengambilan keputusan asesmen.</td>
+                                    <td><input type="checkbox" name="ya_tidak_38"></td>
+                                    <td><input type="checkbox" name="ya_tidak_38"></td>
+                                    <td><input type="text" name="komentar_38" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Diperlukan modifikasi (seperti yang diidentifikasi dalam Komentar)</td>
+                                    <td><input type="checkbox" name="ya_tidak_39"></td>
+                                    <td><input type="checkbox" name="ya_tidak_39"></td>
+                                    <td><input type="text" name="komentar_39" style="width: 100%;"></td>
+                                </tr>
+                                <tr>
+                                    <td>Tugas asesmen siap digunakan:</td>
+                                    <td><input type="checkbox" name="ya_tidak_40"></td>
+                                    <td><input type="checkbox" name="ya_tidak_40"></td>
+                                    <td><input type="text" name="komentar_40" style="width: 100%;"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <table border="1" width="100%" cellpadding="10">
+                            <tr>
+                                <td>
+                                    Nama Peninjau
+                                    <input type="text" name="" class="form-control">
+                                  
+                                </td>
+                                <td>
+                                    Tanggal
+                                    <input type="date" name="tanggal" style="width: 100%;" class="form-control" />
+                                </td>
+
+                                <td>
+                                    Komentar
+                                    <input type="text" name="" class="form-control">
+                                </td>
+                            </tr>
+                            <tr>
+                            <td colspan="3">
+                                Tanda Tangan <br>
+                                <canvas id="signatureCanvas" width="1100" height="150" style="border:1px center solid #000;"></canvas>
+                                <br />
+                                <button type="button" onclick="clearCanvas()">Clear</button>
+                            </td>
+                            </tr>
+                        </table>
+                     
                     </div>
                     <div class="card-footer">
                         <button type="submit" class="btn btn-primary">Simpan</button>
@@ -2412,42 +2557,30 @@
 @stop
 
 @section('js')
+
 <script>
-    function initCanvas(canvasId) {
-        const canvas = document.getElementById(canvasId);
-        const ctx = canvas.getContext('2d');
-        let drawing = false;
+    var canvas = document.getElementById('signatureCanvas');
+    var ctx = canvas.getContext('2d');
+    var drawing = false;
 
-        canvas.addEventListener('mousedown', (e) => {
-            drawing = true;
-            ctx.beginPath();
-            ctx.moveTo(e.offsetX, e.offsetY);
-        });
+    canvas.addEventListener('mousedown', function() {
+        drawing = true;
+        ctx.beginPath();
+    });
 
-        canvas.addEventListener('mousemove', (e) => {
-            if (drawing) {
-                ctx.lineTo(e.offsetX, e.offsetY);
-                ctx.stroke();
-            }
-        });
+    canvas.addEventListener('mousemove', function(event) {
+        if (drawing) {
+            ctx.lineTo(event.offsetX, event.offsetY);
+            ctx.stroke();
+        }
+    });
 
-        canvas.addEventListener('mouseup', () => {
-            drawing = false;
-        });
+    canvas.addEventListener('mouseup', function() {
+        drawing = false;
+    });
 
-        canvas.addEventListener('mouseleave', () => {
-            drawing = false;
-        });
-    }
-
-    function clearCanvas(canvasId) {
-        const canvas = document.getElementById(canvasId);
-        const ctx = canvas.getContext('2d');
+    function clearCanvas() {
         ctx.clearRect(0, 0, canvas.width, canvas.height);
     }
-
-    // Inisialisasi canvas untuk asesmen dan asesor
-    initCanvas('canvasPenyusun');
-    initCanvas('canvasValidator');
 </script>
 @stop

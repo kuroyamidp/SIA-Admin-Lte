@@ -48,7 +48,9 @@
             <table border="1" width="100%" cellpadding="10">
               <thead>
                 <tr>
-                  <td rowspan="2">Skema Sertifikasi <br>(KKNI/Okuapasi/Klaster)   <td>Judul:</td></td>
+                  <td rowspan="2">Skema Sertifikasi <br>(KKNI/Okuapasi/Klaster)
+                  <td>Judul:</td>
+                  </td>
                   <td>
                     <input type="text" name="judul" class="form-control" placeholder="Masukkan Judul" required>
                   </td>
@@ -113,41 +115,66 @@
             <br>
             <b>Penyusun dan Validator</b>
             <table border="1" width="100%" cellpadding="10">
-              <tr>
-                <td>Status</td>
-                <td>No</td>
-                <td>Nama</td>
-                <td>Nomor MET</td>
-                <td>Tanda Tangan dan Tanggal</td>
-              </tr>
-              <tr>
-                <td>PENYUSUN</td>
-                <td>1</td>
-                <td></td>
-                <td></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>PENYUSUN</td>
-                <td>2</td>
-                <td></td>
-                <td></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>VALIDATOR</td>
-                <td>1</td>
-                <td></td>
-                <td></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>VALIDATOR</td>
-                <td>2</td>
-                <td></td>
-                <td></td>
-                <td></td>
-              </tr>
+              <thead>
+                <tr>
+                  <th>Status</th>
+                  <th>No</th>
+                  <th>Nama</th>
+                  <th>Nomor MET</th>
+                  <th>Tanggal</th>
+                  <th>Tanda Tangan dan Tanggal</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Penyusun</td>
+                  <td>1</td>
+                  <td><input type="text" name="penyusun_1_nama" class="form-control" required></td>
+                  <td><input type="text" name="penyusun_1_met" class="form-control" required></td>
+                  <td><input type="date" name="penyusun_1_ttd" class="form-control"></td>
+                  <td>
+                    <canvas id="canvasPenyusun" width="300" height="50" style="border:1px solid #000;"></canvas>
+                    <br />
+                    <button type="button" onclick="clearCanvas('canvasPenyusun')">Clear</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td>2</td>
+                  <td><input type="text" name="penyusun_2_nama" class="form-control"></td>
+                  <td><input type="text" name="penyusun_2_met" class="form-control"></td>
+                  <td><input type="date" name="penyusun_2_ttd" class="form-control"></td>
+                  <td>
+                    <canvas id="canvasPenyusun2" width="300" height="50" style="border:1px solid #000;"></canvas>
+                    <br />
+                    <button type="button" onclick="clearCanvas('canvasPenyusun2')">Clear</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Validator</td>
+                  <td>1</td>
+                  <td><input type="text" name="validator_1_nama" class="form-control" required></td>
+                  <td><input type="text" name="validator_1_met" class="form-control" required></td>
+                  <td><input type="date" name="validator_1_ttd" class="form-control"></td>
+                  <td>
+                    <canvas id="canvasValidator" width="300" height="50" style="border:1px solid #000;"></canvas>
+                    <br />
+                    <button type="button" onclick="clearCanvas('canvasValidator')">Clear</button>
+                  </td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td>2</td>
+                  <td><input type="text" name="validator_2_nama" class="form-control"></td>
+                  <td><input type="text" name="validator_2_met" class="form-control"></td>
+                  <td><input type="date" name="validator_2_ttd" class="form-control"></td>
+                  <td>
+                    <canvas id="canvasValidator2" width="300" height="50" style="border:1px solid #000;"></canvas>
+                    <br />
+                    <button type="button" onclick="clearCanvas('canvasValidator2')">Clear</button>
+                  </td>
+                </tr>
+              </tbody>
             </table>
           </div>
           <div class="card-footer">
@@ -168,6 +195,43 @@
 
 @section('js')
 <script>
-  // Additional JS if necessary
+  function initCanvas(canvasId) {
+    const canvas = document.getElementById(canvasId);
+    const ctx = canvas.getContext('2d');
+    let drawing = false;
+
+    canvas.addEventListener('mousedown', (e) => {
+      drawing = true;
+      ctx.beginPath();
+      ctx.moveTo(e.offsetX, e.offsetY);
+    });
+
+    canvas.addEventListener('mousemove', (e) => {
+      if (drawing) {
+        ctx.lineTo(e.offsetX, e.offsetY);
+        ctx.stroke();
+      }
+    });
+
+    canvas.addEventListener('mouseup', () => {
+      drawing = false;
+    });
+
+    canvas.addEventListener('mouseleave', () => {
+      drawing = false;
+    });
+  }
+
+  function clearCanvas(canvasId) {
+    var canvas = document.getElementById(canvasId);
+    var ctx = canvas.getContext('2d');
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+  }
+
+  // Inisialisasi canvas untuk asesmen dan asesor
+  initCanvas('canvasPenyusun');
+  initCanvas('canvasValidator');
+  initCanvas('canvasPenyusun2');
+  initCanvas('canvasValidator2');
 </script>
 @stop

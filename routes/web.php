@@ -33,6 +33,7 @@ use App\Http\Controllers\FRIA02Controller;
 use App\Http\Controllers\FRIA05AController;
 use App\Http\Controllers\FRIA05CController;
 use App\Http\Controllers\FRIA06BController;
+use App\Http\Controllers\FRIA06CController;
 use App\Http\Controllers\FRIA06Controller;
 use App\Http\Controllers\FRIA11Controller;
 use App\Http\Controllers\FRMAPA01Controller;
@@ -114,6 +115,7 @@ Route::resource('frak04', FRAK04Controller::class)->middleware(['auth', 'is_admi
 Route::resource('frapl02', FRAPL02Controller::class)->middleware(['auth', 'is_admin']);
 Route::resource('fria06', FRIA06Controller::class)->middleware(['auth', 'is_admin']);
 Route::resource('fria06b', FRIA06BController::class)->middleware(['auth', 'is_admin']);
+Route::resource('fria06c', FRIA06CController::class)->middleware(['auth', 'is_admin']);
 Route::resource('fria05a', FRIA05AController::class)->middleware(['auth', 'is_admin']);
 Route::resource('fria05c', FRIA05CController::class)->middleware(['auth', 'is_admin']);
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home')->middleware(['auth']);
